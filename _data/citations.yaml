@@ -1,0 +1,456 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1186/s13059-018-1579-x
+  title: 'GRIPT: a novel case-control analysis method for Mendelian disease gene discovery'
+  authors:
+  - Jun Wang
+  - Li Zhao
+  - Xia Wang
+  - Yong Chen
+  - Mingchu Xu
+  - Zachry T. Soens
+  - Zhongqi Ge
+  - Peter Ronghan Wang
+  - Fei Wang
+  - Rui Chen
+  publisher: Genome Biology
+  date: '2018-11-26'
+  link: https://doi.org/gqcv5g
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1579-x/MediaObjects/13059_2018_1579_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: source
+    link: https://github.com/fe4960/GRIPT_BCM
+    text: GRIPT source
+  tags:
+  - Human Genetics
+  - GRIPT
+  - Mendelian Disease
+  - Gene Discovery
+  topics:
+  - Human Genetics
+- id: doi:10.1038/s41436-020-01003-x
+  title: Ceramide synthase TLCD3B is a novel gene associated with human recessive
+    retinal dystrophy
+  authors:
+  - Renae Elaine Bertrand
+  - Jun Wang
+  - Kaitlyn H. Xiong
+  - Chinthana Thangavel
+  - Xinye Qian
+  - Rola Ba-Abbad
+  - Qingnan Liang
+  - "Renata T. Sim\xF5es"
+  - Shirley A.M. Sampaio
+  - Keren J. Carss
+  - F. Lucy Raymond
+  - Anthony G. Robson
+  - Andrew R. Webster
+  - Gavin Arno
+  - Fernanda Belga Ottoni Porto
+  - Rui Chen
+  publisher: Genetics in Medicine
+  date: '2021-03-01'
+  link: https://doi.org/gqcv5v
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
+  extra-links: null
+  tags:
+  - Human Genetics
+  - TLCD3B
+  - Retinal Dystrophy
+  topics:
+  - Human Genetics
+- id: doi:10.1038/s41436-020-00948-3
+  title: A novel statistical method for interpreting the pathogenicity of rare variants
+  authors:
+  - Jun Wang
+  - Hehe Liu
+  - Renae Elaine Bertrand
+  - Alejandro Sarrion-Perdigones
+  - Yezabel Gonzalez
+  - Koen J.T. Venken
+  - Rui Chen
+  publisher: Genetics in Medicine
+  date: '2021-01-01'
+  link: https://doi.org/gqcwgv
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-00948-3/MediaObjects/41436_2020_948_Fig3_HTML.png?as=webp
+  extra-links:
+  - type: source
+    link: https://github.com/fe4960/Binomial_test
+    text: Binomial Test source
+  tags:
+  - Human Genetics
+  - Pathogenicity
+  - Rare Variant
+  - Mendelian Disease
+  topics:
+  - Human Genetics
+- id: doi:10.1016/j.ajhg.2017.02.008
+  title: Mutations in the Spliceosome Component CWC27 Cause Retinal Degeneration with
+    or without Additional Developmental Anomalies
+  authors:
+  - Mingchu Xu
+  - Yajing (Angela) Xie
+  - Hana Abouzeid
+  - Christopher T. Gordon
+  - Alessia Fiorentino
+  - Zixi Sun
+  - Anna Lehman
+  - Ihab S. Osman
+  - Rachayata Dharmat
+  - Rosa Riveiro-Alvarez
+  - Linda Bapst-Wicht
+  - Darwin Babino
+  - Gavin Arno
+  - Virginia Busetto
+  - Li Zhao
+  - Hui Li
+  - Miguel A. Lopez-Martinez
+  - Liliana F. Azevedo
+  - Laurence Hubert
+  - Nikolas Pontikos
+  - Aiden Eblimit
+  - Isabel Lorda-Sanchez
+  - Valeria Kheir
+  - Vincent Plagnol
+  - Myriam Oufadem
+  - Zachry T. Soens
+  - Lizhu Yang
+  - Christine Bole-Feysot
+  - Rolph Pfundt
+  - Nathalie Allaman-Pillet
+  - "Patrick Nitschk\xE9"
+  - Michael E. Cheetham
+  - Stanislas Lyonnet
+  - Smriti A. Agrawal
+  - Huajin Li
+  - "Ga\xEBtan Pinton"
+  - Michel Michaelides
+  - Claude Besmond
+  - Yumei Li
+  - Zhisheng Yuan
+  - Johannes von Lintig
+  - Andrew R. Webster
+  - "Herv\xE9 Le Hir"
+  - Peter Stoilov
+  - Jeanne Amiel
+  - Alison J. Hardcastle
+  - Carmen Ayuso
+  - Ruifang Sui
+  - Rui Chen
+  - Rando Allikmets
+  - Daniel F. Schorderet
+  - Graeme Black
+  - Georgina Hall
+  - Rachel Gillespie
+  - Simon Ramsden
+  - Forbes Manson
+  - Panagiotis Sergouniotis
+  - Chris Inglehearn
+  - Carmel Toomes
+  - Manir Ali
+  - Martin McKibbin
+  - James Poulter
+  - Emma Lord
+  - Andrea Nemeth
+  - Stephanie Halford
+  - Susan Downes
+  - Jing Yu
+  publisher: The American Journal of Human Genetics
+  date: '2017-04-01'
+  link: https://doi.org/f92nd5
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5384039/bin/gr2.jpg
+  extra-links: null
+  tags:
+  - Human Genetics
+  - CWC27
+  - Retinal Degeneration
+  topics:
+  - Human Genetics
+- id: doi:10.1016/j.ajhg.2016.10.008
+  title: Mutations in REEP6 Cause Autosomal-Recessive Retinitis Pigmentosa
+  authors:
+  - Gavin Arno
+  - "Smriti\_A. Agrawal"
+  - Aiden Eblimit
+  - James Bellingham
+  - Mingchu Xu
+  - Feng Wang
+  - Christina Chakarova
+  - "David\_A. Parfitt"
+  - Amelia Lane
+  - Thomas Burgoyne
+  - Sarah Hull
+  - "Keren\_J. Carss"
+  - Alessia Fiorentino
+  - "Matthew\_J. Hayes"
+  - "Peter\_M. Munro"
+  - Ralph Nicols
+  - Nikolas Pontikos
+  - "Graham\_E. Holder"
+  - Chinwe Asomugha
+  - F. Lucy Raymond
+  - Anthony T. Moore
+  - Vincent Plagnol
+  - Michel Michaelides
+  - Alison J. Hardcastle
+  - Yumei Li
+  - Catherine Cukras
+  - Andrew R. Webster
+  - Michael E. Cheetham
+  - Rui Chen
+  - Graeme Black
+  - Georgina Hall
+  - Stuart Ingram
+  - Rachel Gillespie
+  - Forbes Manson
+  - Panagiotis Sergouniotis
+  - Chris Inglehearn
+  - Carmel Toomes
+  - Manir Ali
+  - Martin McKibbin
+  - James Poulter
+  - Kamron Khan
+  - Emma Lord
+  - Andrea Nemeth
+  - Susan Downes
+  - Jing Yu
+  - Stefano Lise
+  - Gavin Arno
+  - Alessia Fiorentino
+  - Nikos Ponitkos
+  - Vincent Plagnol
+  - Michel Michaelides
+  - "Alison\_J. Hardcastle"
+  - "Michael\_E. Cheetham"
+  - "Andrew\_R. Webster"
+  - "Veronica van\_Heyningen"
+  publisher: The American Journal of Human Genetics
+  date: '2016-12-01'
+  link: https://doi.org/f9fv6g
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5142109/bin/gr2.jpg
+  extra-links: null
+  tags:
+  - Human Genetics
+  - REEP6
+  - Retinitis Pigmentosa
+  - Retinal Dystrophy
+  topics:
+  - Human Genetics
+- id: doi:10.1186/s13059-022-02679-x
+  title: Bi-order multimodal integration of single-cell data
+  authors:
+  - Jinzhuang Dou
+  - Shaoheng Liang
+  - Vakul Mohanty
+  - Qi Miao
+  - Yuefan Huang
+  - Qingnan Liang
+  - Xuesen Cheng
+  - Sangbae Kim
+  - Jongsu Choi
+  - Yumei Li
+  - Li Li
+  - May Daher
+  - Rafet Basar
+  - Katayoun Rezvani
+  - Rui Chen
+  - Ken Chen
+  publisher: Genome Biology
+  date: '2022-05-09'
+  link: https://doi.org/gqcwhh
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02679-x/MediaObjects/13059_2022_2679_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: preprint
+    link: https://satijalab.org/seurat/v4.0/weighted_nearest_neighbor_analysis.html
+    text: Dataset
+  - type: source
+    link: https://github.com/KChen-lab/bindSC
+    text: BindSC source
+  tags:
+  - Single Cell Omics
+  - BindSC
+  - Bi-CCA
+  - Integration
+  topics:
+  - Single Cell Omics
+- id: doi:10.1073/pnas.1901572116
+  title: Generation, transcriptome profiling, and functional validation of cone-rich
+    human retinal organoids
+  authors:
+  - Sangbae Kim
+  - Albert Lowe
+  - Rachayata Dharmat
+  - Seunghoon Lee
+  - Leah A. Owen
+  - Jun Wang
+  - Akbar Shakoor
+  - Yumei Li
+  - Denise J. Morgan
+  - Andre A. Hejazi
+  - Ales Cvekl
+  - Margaret M. DeAngelis
+  - Z. Jimmy Zhou
+  - Rui Chen
+  - Wei Liu
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-05-09'
+  link: https://doi.org/gf4x6c
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6561190/bin/pnas.1901572116fig01.jpg
+  extra-links: null
+  tags:
+  - Single Cell Omics
+  - Cone and Rod Photoreceptor
+  - Retinal Organoid
+  topics:
+  - Single Cell Omics
+- id: doi:10.1167/iovs.63.3.11
+  title: <i>AAV8</i>-Mediated Gene Therapy Rescues Retinal Degeneration Phenotype
+    in a <i>Tlcd3b</i> Knockout Mouse Model
+  authors:
+  - Xinye Qian
+  - Hehe Liu
+  - Shangyi Fu
+  - Jiaxiong Lu
+  - Yu-Ting Hung
+  - Cassidy Turner
+  - Haiwei Gu
+  - Rui Chen
+  publisher: Investigative Opthalmology &amp; Visual Science
+  date: '2022-03-11'
+  link: https://doi.org/gpnvqk
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8934561/bin/iovs-63-3-11-f001.jpg
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Tlcd3b
+  - Retinal Degeneration
+  - Mouse Model
+  topics:
+  - Therapeutics
+- id: doi:10.1172/JCI123980
+  title: A nonhuman primate model of inherited retinal disease
+  authors:
+  - Ala Moshiri
+  - Rui Chen
+  - Soohyun Kim
+  - R. Alan Harris
+  - Yumei Li
+  - Muthuswamy Raveendran
+  - Sarah Davis
+  - Qingnan Liang
+  - Ori Pomerantz
+  - Jun Wang
+  - Laura Garzel
+  - Ashley Cameron
+  - Glenn Yiu
+  - J. Timothy Stout
+  - Yijun Huang
+  - Christopher J. Murphy
+  - Jeffrey Roberts
+  - Kota N. Gopalakrishna
+  - Kimberly Boyd
+  - Nikolai O. Artemyev
+  - Jeffrey Rogers
+  - Sara M. Thomasy
+  publisher: Journal of Clinical Investigation
+  date: '2019-01-22'
+  link: https://doi.org/gqcwhm
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6355306/bin/jci-129-123980-g282.jpg
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Inherited Retinal Disease
+  - Ophthalmology
+  - Genetic Disease
+  topics:
+  - Therapeutics
+- id: doi:10.1089/hum.2018.078
+  title: Gene Therapy Rescues Retinal Degeneration in Receptor Expression-Enhancing
+    Protein 6 Mutant Mice
+  authors:
+  - Smriti Agrawal Zaneveld
+  - Aiden Eblimit
+  - Qingnan Liang
+  - Renae Bertrand
+  - Nathaniel Wu
+  - Hehe Liu
+  - Quynh Nguyen
+  - Jacques Zaneveld
+  - Keqing Wang
+  - Yumei Li
+  - Rui Chen
+  publisher: Human Gene Therapy
+  date: '2019-03-01'
+  link: https://doi.org/gqcwhn
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6437630/bin/fig-1.gif
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Retinal Degeneration
+  - Retinitis Pigmentosa
+  topics:
+  - Therapeutics
+- id: doi:10.1016/j.jtos.2020.12.004
+  title: Single-cell transcriptomics identifies limbal stem cell population and cell
+    types mapping its differentiation trajectory in limbal basal epithelium of human
+    cornea
+  authors:
+  - De-Quan Li
+  - Sangbae Kim
+  - Jin-Miao Li
+  - Qianmiao Gao
+  - Jongsu Choi
+  - Fang Bian
+  - Jiaoyue Hu
+  - Yun Zhang
+  - Jin Li
+  - Rong Lu
+  - Yumei Li
+  - Stephen C. Pflugfelder
+  - Hongyu Miao
+  - Rui Chen
+  publisher: The Ocular Surface
+  date: '2021-04-01'
+  link: https://doi.org/gjgjmc
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
+  extra-links: null
+  tags:
+  - Single Cell Omics
+  - Cornea
+  - Stem Cells
+  - Epithelium
+  topics:
+  - Single Cell Omics
+- id: doi:10.1038/s41467-019-12917-9
+  title: Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome
+    profiling
+  authors:
+  - Qingnan Liang
+  - Rachayata Dharmat
+  - Leah Owen
+  - Akbar Shakoor
+  - Yumei Li
+  - Sangbae Kim
+  - Albert Vitale
+  - Ivana Kim
+  - Denise Morgan
+  - Shaoheng Liang
+  - Nathaniel Wu
+  - Ken Chen
+  - Margaret M. DeAngelis
+  - Rui Chen
+  publisher: Nature Communications
+  date: '2019-12-01'
+  link: https://doi.org/gnrscd
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse133707
+    text: Dataset
+  tags:
+  - Single Cell Omics
+  - snRNA-seq
+  - Human Retinal
+  topics:
+  - Single Cell Omics
