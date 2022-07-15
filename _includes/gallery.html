@@ -20,7 +20,6 @@
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
     {%- if image -%}
-    <figure class="figure">
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
         class="gallery_item"
@@ -32,12 +31,7 @@
           alt="{{ caption }}"
         />
       </a>
-     {%- if caption -%}
-       <figcaption class="figure_caption">
-         {{- caption | markdownify | remove: "<p>" | remove: "</p>" -}}
-       </figcaption>
-     {%- endif -%}
-    </figure> 
+
     {%- endif -%}
   {%- endfor -%}
 </div>
