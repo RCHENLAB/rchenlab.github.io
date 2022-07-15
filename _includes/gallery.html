@@ -29,9 +29,9 @@
         <img
           src="{{ image | relative_url }}"
           loading="lazy"
-          alt="{{ caption | default: '' }}"
-          title="{{ caption | default: '' }}"
+          alt=""
         />
+        {% if caption %}<span>{{ caption }}</span>{% endif %}
       </a>
   
     {%- endif -%}
