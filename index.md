@@ -19,7 +19,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 
   image2="images/SCO1.jpeg"
   link2="research/#single-cell-omics"
-  caption2="Single Cell Omics"
+  caption2="Single Cell"
 
   image3="images/therap1.jpg"
   link3="research/#therapeutics"
