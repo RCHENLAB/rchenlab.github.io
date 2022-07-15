@@ -1,3 +1,21 @@
+
+<style>
+.hcg-slide-text {
+	color: #ffffff;
+	font-size: 10px;
+	padding: 3px 5px;
+	position: absolute;
+	bottom: 0;
+	border-radius: 5px;
+	left: 50%;
+	text-align: center;
+	text-shadow: 0 0 2px #000;
+	background-color: 
+	display: inline-block;
+	transform: translate(-50%, -5px);
+}
+</style>
+
 {%- assign max = 0 -%}
 
 {%- for i in (1..100) -%}
@@ -30,6 +48,7 @@
           loading="lazy"
           alt="{{ caption }}"
         />
+        {% if caption %}<span class="hcg-slide-text">{{ caption }}</span>{% endif %}
       </a>
 
     {%- endif -%}
