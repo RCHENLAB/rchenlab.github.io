@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html dark=true%}
-# <i class="fas fa-book-open fa-lg"></i>Publications
+# <i class="fas fa-book-open fa-lg"></i>Selected Publications
 
 {% include section.html background="images/organoid1.jpg" dark=true%}
 
