@@ -30,6 +30,11 @@
           alt=""
         />
       </a>
+      {%- if include.caption -%}
+      <figcaption class="figure_caption">
+        {{- include.caption | markdownify | remove: "<p>" | remove: "</p>" -}}
+      </figcaption>
+      {%- endif -%}
     {%- endif -%}
 
   {%- endfor -%}
