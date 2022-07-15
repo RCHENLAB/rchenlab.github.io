@@ -50,6 +50,19 @@
     - Allele Frequency
     - NGS
 
+- title: Spatial atlas of mouse retina
+  subtitle: 
+  group: single cell
+  image: images/SCO5.png
+  link: https://cellatlas.research.bcm.edu/
+  description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
+  repo: 
+  tags:
+    - MERFISH
+    - Dataset
+    - Mouse Retina
+    - Spatial
+    
 - title: bindSC
   subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
   group: single cell
@@ -62,15 +75,4 @@
     - Bi-order
     - Integration
 
-- title: MERFISH
-  subtitle: 
-  group: single cell
-  image: images/SCO5.png
-  link: https://cellatlas.research.bcm.edu/
-  description: 
-  repo: 
-  tags:
-    - MERFISH
-    - Dataset
-    - Mouse Retina
-    - Spatial
+
