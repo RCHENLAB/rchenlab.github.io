@@ -29,16 +29,11 @@
         <img
           src="{{ image | relative_url }}"
           loading="lazy"
-          alt="{{ include.caption | default: '' }}"
-          title="{{ include.caption | default: '' }}"
+          alt="{{ caption | default: '' }}"
+          title="{{ caption | default: '' }}"
         />
       </a>
   
-      {%- if include.caption -%}
-      <figcaption class="figure_caption">
-        {{- include.caption | markdownify | remove: "<p>" | remove: "</p>" -}}
-      </figcaption>
-      {%- endif -%}
     {%- endif -%}
 
   {%- endfor -%}
