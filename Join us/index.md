@@ -4,11 +4,12 @@ nav:
   order: 6
   tooltip: We're hiring!
 ---
+{% include section.html dark=true%}
 # <i class="fas fa-users"></i>Join The Team
 
 We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
 
-{% include section.html background="images/regeneration.jpg"%}
+{% include section.html background="images/regeneration.jpg" dark=true%}
 ## Postdoc
 #### Postdocs to uncover the genetic code of human diseases
 
