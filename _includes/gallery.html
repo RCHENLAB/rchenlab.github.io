@@ -20,7 +20,7 @@
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
     {%- if image -%}
-    <figure>
+    <figure class="figure">
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
         class="gallery_item"
