@@ -15,6 +15,8 @@
     {%- assign image = include[image] -%}
     {%- assign tooltip = "tooltip" | append: i -%}
     {%- assign tooltip = include[tooltip] -%}
+    {%- assign caption = "caption" | append: i -%}
+    {%- assign caption = include[caption] -%}
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
 
@@ -27,9 +29,11 @@
         <img
           src="{{ image | relative_url }}"
           loading="lazy"
-          alt=""
+          alt="{{ include.caption | default: '' }}"
+          title="{{ include.caption | default: '' }}"
         />
       </a>
+  
       {%- if include.caption -%}
       <figcaption class="figure_caption">
         {{- include.caption | markdownify | remove: "<p>" | remove: "</p>" -}}
