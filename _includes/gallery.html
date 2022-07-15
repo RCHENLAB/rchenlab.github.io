@@ -19,7 +19,7 @@
     {%- assign caption = include[caption] -%}
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
-
+   <figure class="figure">
     {%- if image -%}
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
@@ -39,7 +39,7 @@
      {%- endif -%}
   
     {%- endif -%}
-
+    </figure>
   {%- endfor -%}
 </div>
 
