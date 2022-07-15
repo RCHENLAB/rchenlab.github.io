@@ -8,7 +8,7 @@ nav:
 
 We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
 
-{% include section.html background="images/back.webp"%}
+{% include section.html background="images/regeneration.jpg"%}
 ## Postdoc
 #### Postdocs to uncover the genetic code of human diseases
 
