@@ -1,15 +1,3 @@
-
-<style >
-.hcg-text {
-	color: #ffffff;
-	font-size: 16px;
-	bottom: 0;
-	text-align: center;
-	text-shadow: 0 0 1px #000;
-
-}
-</style>
-
 {%- assign max = 0 -%}
 
 {%- for i in (1..100) -%}
@@ -42,7 +30,7 @@
           loading="lazy"
           alt=" "
         />
-        {% if caption %}<span class="hcg-text">{{ caption }}</span>{% endif %}
+        {% if caption %}<span class="hcg-slide-text">{{ caption }}</span>{% endif %}
       </a>
 
     {%- endif -%}
