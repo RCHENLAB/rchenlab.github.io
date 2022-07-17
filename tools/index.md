@@ -32,5 +32,4 @@ Our software, tools, datasets, etc. are open-source, and free for anyone around 
 The GCC single cell omics cluster aims at leveraging the expertise at different institutions and maximize the interdisciplinary synergy of the group.
 #### [The eye biological network](https://www.humancellatlas.org/biological-networks/)
 The eye biological network will establish a comprehensive molecular and spatial atlas of the cells in the visual system across age and ethnicity groups. This resource will serve the foundation for further dissection of the function, interaction, and involvement of subtypes of cells in the visual function and diseases.
-
-Network Coordinators: Rui Chen eye@humancellatlas.org
+<br>Network Coordinators: Rui Chen {% include link.html type="email" icon="" text="Email" tooltip="" link="eye@humancellatlas.org" %}
