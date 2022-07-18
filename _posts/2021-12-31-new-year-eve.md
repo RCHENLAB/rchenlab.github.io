@@ -1,7 +1,7 @@
 ---
 title: New Year's Eve
 tags:
-author: Meng
+author:
 member: All
 ---
 
