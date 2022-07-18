@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>NEWS
 
-{% include section.html %}
+{% include section.html background="images/back.jpeg"%}
 
 {% include search-info.html %}
 
