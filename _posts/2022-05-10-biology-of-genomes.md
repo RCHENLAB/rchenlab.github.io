@@ -1,7 +1,7 @@
 ---
 title: Jin's poster at The Biology of Genomes 2022
 tags:
-author: Meng
+author: 
 member: Jin Li
 ---
 
