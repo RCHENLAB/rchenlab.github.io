@@ -5,5 +5,4 @@ author: Meng
 member: All
 ---
 
-{% capture text %} Happy New Year!
-{% endcapture %}
+Happy New Year!
