@@ -8,4 +8,4 @@ member: Johnny
 {% capture text %} Congratulations to Johnny!!!   
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="" title="" text=text %}
+{% include feature.html image="images/post/johnny.jpeg" link="" title="" text=text %}
