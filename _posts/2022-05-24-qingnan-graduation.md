@@ -1,7 +1,7 @@
 ---
 title: Qingnan’s Graduation
 tags:
-author: Meng
+author: 
 member: Qingnan
 ---
 
