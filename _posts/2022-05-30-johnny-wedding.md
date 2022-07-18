@@ -1,7 +1,7 @@
 ---
 title: Johnny’s wedding
 tags:
-author: Meng
+author:
 member: Johnny
 ---
 
