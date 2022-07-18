@@ -1,7 +1,7 @@
 ---
 title: New Undergraduate Researchers
 tags:
-author: Meng
+author: 
 member: All
 ---
 
