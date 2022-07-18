@@ -7,5 +7,17 @@ member: Qingnan
 
 We have a new PhD: Congratulations to Dr. Qingnan Liang! We are so proud of you!
 
-{% include feature.html image="images/post/qingnan1.jpeg" link="" title="" text=text %}
-{% include feature.html image="images/post/qingnan2.jpeg" link="" title="" text=text %}
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/post/qingnan1.jpeg"
+%}
+{% endcapture %}
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/post/qingnan2.jpeg"
+%}
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
+
