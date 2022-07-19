@@ -5,7 +5,7 @@ author:
 member: Jin
 ---
 
-{% capture text %} Jin presented his poster "Single cell atlas of the human retina" during [The Biology of Genomes 2022](https://meetings.cshl.edu/abstracts.aspx?meet=GENOME&year=22) from May 10 to May 14.
+{% capture text %} Jin will be presenting his poster "Single cell atlas of the human retina" at [The Biology of Genomes 2022](https://meetings.cshl.edu/abstracts.aspx?meet=GENOME&year=22) from May 10 to May 14.
 
 Single-cell technologies have become powerful tools for studying cellular components, transcriptome relationships, and regulatory mechanisms underlying various retinal diseases and biological processes. Single-cell RNA sequencing (scRNA-seq) has advanced the assessment of cellular heterogeneity by detecting transcriptional similarities and differences at single cell resolution. 
 
