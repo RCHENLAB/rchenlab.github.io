@@ -25,7 +25,7 @@ Our software, tools, datasets, etc. are open-source, and free for anyone around 
 
 {% include section.html %}
 
-## Essential Links
+## Useful Links
 
 
 #### [Gulf Coast Cluster for Single Cell Omics](https://www.gulfcoastconsortia.org/home/research/single-cell-omics/)
