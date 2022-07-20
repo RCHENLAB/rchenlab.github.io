@@ -37,3 +37,4 @@ The eye biological network will establish a comprehensive molecular and spatial 
 The Single Cell Genomics Core provides comprehensive services for RNA and chromatin profiling on single or a small number of cells.
 The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 platform, and the Fluidigm C1 auto cell prep platforms. The combination of these platforms allows cost-effective and high throughput genomic profiling that matches with the experiments.
 <br>Academic Director: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="singlecellgenomicscore@bcm.edu" %}
+#### [X-linked Inherited Retinal Disease Variant Curation Expert Panel](https://clinicalgenome.org/affiliation/50086/)
