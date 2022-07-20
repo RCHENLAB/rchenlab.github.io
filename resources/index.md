@@ -38,3 +38,4 @@ The Single Cell Genomics Core provides comprehensive services for RNA and chroma
 The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 platform, and the Fluidigm C1 auto cell prep platforms. The combination of these platforms allows cost-effective and high throughput genomic profiling that matches with the experiments.
 <br>Academic Director: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="singlecellgenomicscore@bcm.edu" %}
 #### [X-linked Inherited Retinal Disease Variant Curation Expert Panel](https://clinicalgenome.org/affiliation/50086/)
+We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
