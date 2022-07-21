@@ -59,3 +59,15 @@ Effect Predictor & others:&nbsp;&nbsp;[REVEL](https://sites.google.com/site/reve
 [VEP](https://useast.ensembl.org/Tools/VEP)&nbsp;&nbsp;
 [AnnotSV](https://lbgi.fr/AnnotSV/runjob)&nbsp;&nbsp;
 [Position Converter](https://mutalyzer.nl/position-converter)
+
+### Single Cell
+[Seurat](https://satijalab.org/seurat)&nbsp;&nbsp;
+[Cellxgene](https://github.com/chanzuckerberg/cellxgene)&nbsp;&nbsp;
+[DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder)&nbsp;&nbsp;
+[DropletUtils](https://bioconductor.org/packages/release/bioc/html/DropletUtils.html)&nbsp;&nbsp;
+[SeuratDisk](https://github.com/mojaveazure/seurat-disk)&nbsp;&nbsp;
+[SoupX](https://github.com/constantAmateur/SoupX)&nbsp;&nbsp;
+[ScPred](https://github.com/powellgenomicslab/scPred)&nbsp;&nbsp;
+[Scanpy](https://scanpy.readthedocs.io/en/stable)&nbsp;&nbsp;
+[dropkick](https://github.com/KenLauLab/dropkick)&nbsp;&nbsp;
+[Snakemake](https://github.com/snakemake/snakemake)&nbsp;&nbsp;
