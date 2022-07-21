@@ -41,19 +41,21 @@ The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 
 We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
 
 ### Genetics
-[UCSC Genome Browser](https://genome.ucsc.edu)  [gnomAD browser](https://gnomad.broadinstitute.org/)  [Ensembl](http://useast.ensembl.org/index.html)  
-[GeneCards](https://www.genecards.org/)  
-[OMIM](https://omim.org/)  
-[DECIPHER](https://www.deciphergenomics.org/browser)  
-[ClinGen](https://search.clinicalgenome.org/kb/genes/curations?page=1&size=25&search=)  
-[HGNC](https://www.genenames.org/tools/search/#!/?query=&rows=20&start=0&filter=document_type:gene)  
-[NCBI](https://www.ncbi.nlm.nih.gov/)  
+[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&nbsp;&nbsp;
+[gnomAD&nbsp;browser](https://gnomad.broadinstitute.org/)&nbsp;&nbsp;
+[Ensembl](http://useast.ensembl.org/index.html)&nbsp;&nbsp;
+[GeneCards](https://www.genecards.org/)&nbsp;&nbsp;
+[OMIM](https://omim.org/)&nbsp;&nbsp;
+[DECIPHER](https://www.deciphergenomics.org/browser)&nbsp;&nbsp;
+[ClinGen](https://search.clinicalgenome.org/kb/genes/curations?page=1&size=25&search=)&nbsp;&nbsp;
+[HGNC](https://www.genenames.org/tools/search/#!/?query=&rows=20&start=0&filter=document_type:gene)&nbsp;&nbsp;
+[NCBI](https://www.ncbi.nlm.nih.gov/)&nbsp;&nbsp;
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)<br>
-[REVEL](https://sites.google.com/site/revelgenomics/about)  
-[CADD](https://cadd.gs.washington.edu/)  
-[EVE](https://evemodel.org/)  
-[dbNSFP](http://database.liulab.science/dbNSFP)  
-[spliceAI](https://spliceailookup.broadinstitute.org/)  
-[VEP](https://useast.ensembl.org/Tools/VEP)  
-[AnnotSV](https://lbgi.fr/AnnotSV/runjob)  
+[REVEL](https://sites.google.com/site/revelgenomics/about)&nbsp;&nbsp;
+[CADD](https://cadd.gs.washington.edu/)&nbsp;&nbsp;
+[EVE](https://evemodel.org/)&nbsp;&nbsp;
+[dbNSFP](http://database.liulab.science/dbNSFP)&nbsp;&nbsp;
+[spliceAI](https://spliceailookup.broadinstitute.org/)&nbsp;&nbsp;
+[VEP](https://useast.ensembl.org/Tools/VEP)&nbsp;&nbsp;
+[AnnotSV](https://lbgi.fr/AnnotSV/runjob)&nbsp;&nbsp;
 [Position Converter](https://mutalyzer.nl/position-converter)
