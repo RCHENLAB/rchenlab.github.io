@@ -41,7 +41,7 @@ The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 
 We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
 
 ### Genetics
-References:&nbsp;[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&nbsp;&nbsp;
+References:&nbsp;&nbsp;[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&nbsp;&nbsp;
 [gnomAD&nbsp;browser](https://gnomad.broadinstitute.org/)&nbsp;&nbsp;
 [Ensembl](http://useast.ensembl.org/index.html)&nbsp;&nbsp;
 [GeneCards](https://www.genecards.org/)&nbsp;&nbsp;
@@ -51,7 +51,7 @@ References:&nbsp;[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&nbsp;&
 [HGNC](https://www.genenames.org/tools/search/#!/?query=&rows=20&start=0&filter=document_type:gene)&nbsp;&nbsp;
 [NCBI](https://www.ncbi.nlm.nih.gov/)&nbsp;&nbsp;
 [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)<br>
-Effect Predictor & others:&nbsp;[REVEL](https://sites.google.com/site/revelgenomics/about)&nbsp;&nbsp;
+Effect Predictor & others:&nbsp;&nbsp;[REVEL](https://sites.google.com/site/revelgenomics/about)&nbsp;&nbsp;
 [CADD](https://cadd.gs.washington.edu/)&nbsp;&nbsp;
 [EVE](https://evemodel.org/)&nbsp;&nbsp;
 [dbNSFP](http://database.liulab.science/dbNSFP)&nbsp;&nbsp;
