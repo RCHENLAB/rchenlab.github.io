@@ -41,9 +41,7 @@ The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 
 We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
 
 ### Genetics
-[UCSC Genome Browser](https://genome.ucsc.edu)  
-[gnomAD browser](https://gnomad.broadinstitute.org/)  
-[Ensembl](http://useast.ensembl.org/index.html)  
+[UCSC Genome Browser](https://genome.ucsc.edu)  [gnomAD browser](https://gnomad.broadinstitute.org/)  [Ensembl](http://useast.ensembl.org/index.html)  
 [GeneCards](https://www.genecards.org/)  
 [OMIM](https://omim.org/)  
 [DECIPHER](https://www.deciphergenomics.org/browser)  
