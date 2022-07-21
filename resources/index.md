@@ -39,3 +39,6 @@ The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 
 <br>Academic Director: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="singlecellgenomicscore@bcm.edu" %}
 #### [X-linked Inherited Retinal Disease Variant Curation Expert Panel](https://clinicalgenome.org/affiliation/50086/)
 We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
+
+### Genetics
+[UCSC Genome Browser](https://genome.ucsc.edu)&nbsp;&nbsp;[gnomAD browser](https://gnomad.broadinstitute.org/)&nbsp;&nbsp;[Ensembl](http://useast.ensembl.org/index.html)&nbsp;&nbsp;[GeneCards](https://www.genecards.org/)&nbsp;&nbsp;[OMIM](https://omim.org/)&nbsp;&nbsp;[DECIPHER](https://www.deciphergenomics.org/browser)&nbsp;&nbsp;[ClinGen](https://search.clinicalgenome.org/kb/genes/curations?page=1&size=25&search=)&nbsp;&nbsp;[HGNC](https://www.genenames.org/tools/search/#!/?query=&rows=20&start=0&filter=document_type:gene)&nbsp;&nbsp;[NCBI](https://www.ncbi.nlm.nih.gov/)
