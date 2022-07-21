@@ -71,7 +71,6 @@ Tools:&nbsp;&nbsp;[scRNA-Tools](https://www.scrna-tools.org/)&nbsp;&nbsp;
 [ScPred](https://github.com/powellgenomicslab/scPred)&nbsp;&nbsp;
 [Scanpy](https://scanpy.readthedocs.io/en/stable)&nbsp;&nbsp;
 [dropkick](https://github.com/KenLauLab/dropkick)&nbsp;&nbsp;
-[Snakemake](https://github.com/snakemake/snakemake)&nbsp;&nbsp;
 [CellRank](https://cellrank.readthedocs.io/en/stable/#)&nbsp;&nbsp;
 [scvi-tools](https://scvi-tools.org/)&nbsp;&nbsp;
 [ArchR](https://www.archrproject.com/index.html)&nbsp;&nbsp;
