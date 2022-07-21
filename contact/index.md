@@ -17,7 +17,7 @@ We are located on the 8th floor of the Taub Building.
 
 {% capture col1 %}
 
-<br>
+<br><br>
 ##### Genetics (Office) T805
 ##### Department of Molecular and Human Genetics
 ##### Baylor College of Medicine
