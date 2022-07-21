@@ -61,7 +61,8 @@ Effect Predictor & others:&nbsp;&nbsp;[REVEL](https://sites.google.com/site/reve
 [Position Converter](https://mutalyzer.nl/position-converter)
 
 ### Single Cell
-Tools:&nbsp;&nbsp;[Seurat](https://satijalab.org/seurat)&nbsp;&nbsp;
+Tools:&nbsp;&nbsp;[scRNA-Tools](https://www.scrna-tools.org/)&nbsp;&nbsp;
+[Seurat](https://satijalab.org/seurat)&nbsp;&nbsp;
 [Cellxgene](https://github.com/chanzuckerberg/cellxgene)&nbsp;&nbsp;
 [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder)&nbsp;&nbsp;
 [DropletUtils](https://bioconductor.org/packages/release/bioc/html/DropletUtils.html)&nbsp;&nbsp;
@@ -71,3 +72,6 @@ Tools:&nbsp;&nbsp;[Seurat](https://satijalab.org/seurat)&nbsp;&nbsp;
 [Scanpy](https://scanpy.readthedocs.io/en/stable)&nbsp;&nbsp;
 [dropkick](https://github.com/KenLauLab/dropkick)&nbsp;&nbsp;
 [Snakemake](https://github.com/snakemake/snakemake)&nbsp;&nbsp;
+[CellRank](https://cellrank.readthedocs.io/en/stable/#)&nbsp;&nbsp;
+[scvi-tools](https://scvi-tools.org/)&nbsp;&nbsp;
+[ArchR](https://www.archrproject.com/index.html)&nbsp;&nbsp;
