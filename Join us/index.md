@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Join The Team
 
 We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
+Positions open in the Chen lab can be found under [BCM career searching page](https://jobs.bcm.edu/search/?createNewAlert=false&q=&optionsFacetsDD_title=&optionsFacetsDD_dept=Molecular+%26+Human+Genetics+-+R.+Chen+%2890006737%29&optionsFacetsDD_department=&optionsFacetsDD_customfield1=)
 
 {% include section.html background="images/regeneration.jpg" dark=true%}
 ## Postdoc
