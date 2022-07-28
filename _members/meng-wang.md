@@ -1,7 +1,7 @@
 ---
 name: Meng Wang
 image: images/member/meng.jpeg
-description: Computer Programmer II
+description: Bioinformatics Programmer
 role: programmer
 aliases:
   - M. Wang
