@@ -9,7 +9,21 @@
     - Single Cell
     - Retina
     - Cell Atlas
+    - Human
 
+- title: Single-cell transcriptomic atlas for mouse retina
+  subtitle:
+  group: single cell
+  image: images/mouse_atlas.png
+  link: https://mouseatlas.research.bcm.edu
+  description: 
+  repo:
+  tags:
+    - Single Cell
+    - Retina
+    - Cell Atlas
+    - Mouse
+    
 - title: GRIPT
   subtitle: A novel case-control analysis method for Mendelian disease gene discovery
   group: genetics
