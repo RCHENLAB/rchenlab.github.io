@@ -6,7 +6,6 @@
   description: A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
   repo:
   tags:
-    - Single Cell
     - Retina
     - Cell Atlas
     - Human
@@ -19,7 +18,6 @@
   description: 
   repo:
   tags:
-    - Single Cell
     - Retina
     - Cell Atlas
     - Mouse
