@@ -65,7 +65,7 @@ We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include link.html
-  link="tools"
+  link="resources"
   text="Browse our tools and datasets"
   icon="fas fa-arrow-right"
   flip=true
@@ -76,7 +76,7 @@ We push to make software, tools, datasets, etc. that are freely available.
 {%
   include feature.html
   image="images/genome2022.png"
-  link="tools"
+  link="resources"
   title="Our Resources"
   flip=true
   text=text
