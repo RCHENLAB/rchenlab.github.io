@@ -39,6 +39,8 @@ The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 
 <br>Academic Director: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="singlecellgenomicscore@bcm.edu" %}
 #### [X-linked Inherited Retinal Disease Variant Curation Expert Panel](https://clinicalgenome.org/affiliation/50086/)
 We will have established variant curation rules that can be applied for all X- linked IRD genes, completed the curation of these IRD genes, and established a framework that can be modified and applied to other genes affecting inherited retinal disease.
+#### [Ancestry Network for the Human Cell Atlas of the Eye]([https://clinicalgenome.org/affiliation/50086/](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/ancestry-networks/ancestry-network-for-the-human-cell-atlas-of-the-eye/))
+To understand the contribution of genetic background to the human visual system, this group will generate data from diverse ancestral groups, as part of the Human Cell Atlas project.
 
 ### Genetics
 References:&nbsp;&nbsp;[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&nbsp;&nbsp;
