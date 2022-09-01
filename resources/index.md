@@ -32,7 +32,7 @@ Our software, tools, datasets, etc. are open-source, and free for anyone around 
 The GCC single cell omics cluster aims at leveraging the expertise at different institutions and maximize the interdisciplinary synergy of the group.
 #### [The eye biological network](https://www.humancellatlas.org/biological-networks/)
 The eye biological network will establish a comprehensive molecular and spatial atlas of the cells in the visual system across age and ethnicity groups. This resource will serve the foundation for further dissection of the function, interaction, and involvement of subtypes of cells in the visual function and diseases.
-<br>Network Coordinators: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="eye@humancellatlas.org" %}
+<br>Network Coordinator: Rui Chen, Ph.D. {% include link.html type="email" icon="" text="Email" tooltip="" link="eye@humancellatlas.org" %}
 #### [Single Cell Genomics Core](https://www.bcm.edu/research/atc-core-labs/single-cell-genomics-core)
 The Single Cell Genomics Core provides comprehensive services for RNA and chromatin profiling on single or a small number of cells.
 The core is equipped with the 10x Genomics Chromium Platform, the Takara icell8 platform, and the Fluidigm C1 auto cell prep platforms. The combination of these platforms allows cost-effective and high throughput genomic profiling that matches with the experiments.
