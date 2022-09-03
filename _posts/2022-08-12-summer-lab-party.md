@@ -5,7 +5,7 @@ author:
 member: All
 ---
 
-We have a great lab party before new semester starts. We enjoy bowling and laser tag and have a lot of fun.
+We have a great lab party before new semester starts. We enjoy bowling and laser tag and have a lot of fun. Happy birthday to Xinye!!!
 
 {%
   include figure.html
