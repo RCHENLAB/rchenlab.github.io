@@ -5,4 +5,4 @@ author:
 member: All
 ---
 
-We welcome new postdoctoral researcher Hafiz Muhammad Jafar Hussain Ph.D.
+We welcome new postdoctoral researcher Hafiz Muhammad Jafar Hussain Ph.D.!
