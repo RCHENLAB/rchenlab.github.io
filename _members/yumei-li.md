@@ -2,7 +2,7 @@
 name: Yumei Li
 image: images/member/yumei.jpeg
 description: Assistant Professor
-role: pi
+role: professor
 aliases:
   - Yumei Li
   - Y. Li
