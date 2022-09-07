@@ -2,7 +2,7 @@
 name: Mira Jeong
 image: images/member/mira.jpeg
 description: Assistant Professor
-role: professor
+role: ap
 aliases:
   - Mira Jeong
   - M. Jeong
