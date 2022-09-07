@@ -6,6 +6,10 @@ professor:
   icon: fas fa-microscope
   text: Professor
   
+ap:
+  icon: fas fa-microscope
+  text: Assistant Professor
+  
 faculty:
   icon: fas fa-microscope
   text: Faculty
