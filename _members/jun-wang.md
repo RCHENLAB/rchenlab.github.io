@@ -1,8 +1,8 @@
 ---
 name: Jun Wang
 image: images/member/jun.jpeg
-description: Postdoctoral Researcher
-role: postdoc
+description: Instructor
+role: faculty
 aliases:
   - Jun Wang
   - J Wang
