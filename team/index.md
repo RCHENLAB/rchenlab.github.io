@@ -73,22 +73,15 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 ## Alumni
 
 {% include section.html %}
-<small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Neuroscience PhD student at Stanford University</small>
-{%
-  include link.html
-  type="linkedin"
-  icon=""
-  text="LinkedIn"
-  tooltip=""
-  link="meng-wang-1018"
-%}
+<small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
+
 {%
   include link.html
   type="email"
   icon=""
   text="Email"
   tooltip=""
-  link="232499@bcm.edu"
+  link="giancarlo.valenzuela@bcm.edu"
 %}
 
 {:.center}
