@@ -74,7 +74,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 {% include section.html %}
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
-
 {%
   include link.html
   type="email"
@@ -83,6 +82,5 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="giancarlo.valenzuela@bcm.edu"
 %}
-
 {:.center}
 
