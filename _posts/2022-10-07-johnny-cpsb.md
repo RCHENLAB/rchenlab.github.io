@@ -4,7 +4,7 @@ tags:
 author:
 member: Johnny
 ---
-{% capture text %} Congratulations to Johnny for winning the 2nd best talk at 2022 Chemical, Physical and Structural Biology Retreat!
+{% capture text %} Congratulations to Johnny for winning the Second place for best talk at 2022 Chemical, Physical and Structural Biology Retreat!
 {% endcapture %}
 
 {% include feature.html image="images/post/cpsb.jpeg" link="" title="" text=text %}
