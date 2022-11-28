@@ -5,6 +5,8 @@ description: Bioinformatics Programmer
 role: programmer
 aliases:
   - M. Wang
+  - Meng Wang
+  - M Wang
 links:
   home-page: https://www.researchgate.net/profile/Meng-Wang-306
   linkedin: meng-wang-1018
