@@ -10,5 +10,5 @@ aliases:
 links:
   home-page: https://www.researchgate.net/profile/Cristal-Villalba
   email: gerdacristal.villalbasilva@bcm.edu
-  linkedin: xuesen-cheng-647948185
+  github: Kur1sutaru
 ---
