@@ -152,3 +152,15 @@
   - Human Retina
   topics:
   - Single Cell Omics
+
+- id: doi:10.1101/2022.11.16.516814
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.16.516814/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+  tags:
+  - sc-eQTL
+  - sc-caQTL
+  - sc-ASCA
+  - sc-ASE
+  - Single cell multiomics
+  topics:
+  - Single Cell Omics
