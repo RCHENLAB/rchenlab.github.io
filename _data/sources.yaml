@@ -136,6 +136,19 @@
   tags:
   - Single Cell Omics
   - snRNA-seq
-  - Human Retinal
+  - Human Retina
+  topics:
+  - Single Cell Omics
+
+- id: doi:10.1101/2022.11.21.517389
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/11/25/2022.11.21.517389/F1.large.jpg?width=800&height=600&carousel=1
+  extra-links:
+    - type: preprint
+      link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
+      text: Data visualization
+  tags:
+  - Multi-omics atlas
+  - scRNA-seq
+  - Human Retina
   topics:
   - Single Cell Omics
