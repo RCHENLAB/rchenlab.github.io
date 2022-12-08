@@ -52,7 +52,8 @@ References:&nbsp;&nbsp;[UCSC&nbsp;Genome&nbsp;Browser](https://genome.ucsc.edu)&
 [ClinGen](https://search.clinicalgenome.org/kb/genes/curations?page=1&size=25&search=)&nbsp;&nbsp;
 [HGNC](https://www.genenames.org/tools/search/#!/?query=&rows=20&start=0&filter=document_type:gene)&nbsp;&nbsp;
 [NCBI](https://www.ncbi.nlm.nih.gov/)&nbsp;&nbsp;
-[ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)<br>
+[ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)&nbsp;&nbsp;
+[LOVD](https://www.lovd.nl/)<br>
 Effect Predictor & others:&nbsp;&nbsp;[REVEL](https://sites.google.com/site/revelgenomics/about)&nbsp;&nbsp;
 [CADD](https://cadd.gs.washington.edu/)&nbsp;&nbsp;
 [EVE](https://evemodel.org/)&nbsp;&nbsp;
