@@ -1,8 +1,8 @@
 ---
 name: Soo Oh
 image: images/member/soo.jpeg
-description: Undergraduate Student
-role: undergrad
+description: Research Technician II
+role: staff
 aliases:
   - Soo Oh
 links:
