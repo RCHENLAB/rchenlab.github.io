@@ -25,7 +25,11 @@ phd:
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
-
+  
+staff:
+  icon: fas fa-user-graduate
+  text: Staff
+  
 programmer:
   icon: fas fa-code
   text: Programmer
