@@ -9,4 +9,4 @@ links:
   email: soo.oh@bcm.edu
 ---
 
-Soo Oh is an undergraduate student at Rice University pursuing a B.S. in Biosciences with a concentration in Cell Biology and Genetics. He joined the Chen Lab in June 2021 as a wet lab undergraduate research assistant. His research in the lab focuses on injecting small molecules to induce neuronal regeneration following retinal damage.
+Soo Oh is a research technician in the Chen lab who started as an undergraduate student in June 2021. He received his Bachelor of Science in Biosciences from Rice University in December 2022. His current research in the Chen lab focuses on: 1) small molecule therapeutics that induce neuronal regeneration in mouse following retinal damage and 2) implementing single-cell spatial technology on the mouse trigeminal ganglion and dorsal root ganglion.
