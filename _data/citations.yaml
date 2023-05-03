@@ -454,7 +454,7 @@
   - Human Retina
   topics:
   - Single Cell Omics
-- id: doi:10.1101/2022.11.21.517389
+- id: doi:10.1016/j.xgen.2023.100298
   title: A multi-omics atlas of the human retina at single-cell resolution
   authors:
   - Qingnan Liang
@@ -469,13 +469,12 @@
   - Yumei Li
   - Margaret DeAngelis
   - Rui Chen
-  publisher: Preprint
-  date: '2022-11-25'
-  link: https://doi.org/grb9vr
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/11/25/2022.11.21.517389/F1.large.jpg?width=800&height=600&carousel=1
+  publisher: Cell Genomics
+  date: '2023-04-01'
+  link: https://doi.org/gr6525
+  image: https://www.cell.com/cms/attachment/515d02fa-99ad-4048-bb86-e8cf7d257107/gr1.jpg
   extra-links:
-  - type: preprint
-    link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
+  - link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
     text: Data visualization
   tags:
   - Multi-omics atlas
