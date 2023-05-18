@@ -1,6 +1,6 @@
 ---
 name: Meng Wang
-image: images/member/meng.jpeg
+image: images/member/meng_update.jpeg
 description: Bioinformatics Programmer
 role: programmer
 aliases:
