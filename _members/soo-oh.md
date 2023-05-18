@@ -1,6 +1,6 @@
 ---
 name: Soo Oh
-image: images/member/soo.jpeg
+image: images/member/soo_update.jpeg
 description: Research Technician II
 role: staff
 aliases:
