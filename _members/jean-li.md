@@ -1,5 +1,5 @@
 ---
-name: Soo Oh
+name: Jean Li
 image: images/member/jean.jpeg
 description: Research Technician II
 role: staff
