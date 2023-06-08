@@ -9,4 +9,4 @@ links:
   email: Jean.Li@bcm.edu
 ---
 
-Jean Li graduated from Washington University in St. Louis with a major in Genomics & Computational Biology. He's interested in genetics and bioinformatics and start to work as a dry lab research tech at Chen lab in June 2023. He also likes playing instruments and video games!
+Jean Li graduated from Washington University in St. Louis with a major in Genomics & Computational Biology. He's interested in genetics and bioinformatics and starts to work as a dry lab research tech at Chen lab in June 2023. He also likes playing instruments and video games!
