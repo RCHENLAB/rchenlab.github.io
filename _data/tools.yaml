@@ -116,17 +116,6 @@
     - Human
     - scRNA-seq
 
-- title: Gene expression values
-  subtitle:
-  group: human atlas
-  image: images/HA2.png
-  link: https://rchenlab.github.io/resources/files
-  description: A table of the gene expression values for BC subclasses’ pseudo bulk. Each value is the median of normalized expressions among samples in the meta datasets for BC subclasses pseudo bulk (i.e., FPKM values).
-  repo:
-  tags:
-    - Retina
-    - Human
-    - scRNA-seq
     
 - title: snATAC-seq Datasets
   subtitle:
