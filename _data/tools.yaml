@@ -23,6 +23,9 @@
     - Retina
     - Cell Atlas
     - Mouse
+    - scRNA-seq
+    - MERFISH
+    - Spatial
     
 - title: GRIPT
   subtitle: A novel case-control analysis method for Mendelian disease gene discovery
@@ -137,12 +140,12 @@
     - Human
     - snATAC-seq
     
-- title: snATAC-seq track?
+- title: snATAC-seq peak tracks of major retinal cell types
   subtitle:
   group: human atlas
   image: images/HA4.png
-  link: https://cells-test.gi.ucsc.edu/?ds=retina-atlas+atac
-  description: ?
+  link: https://genome.ucsc.edu/s/bwick/chen%2Dretina%2Datlas
+  description: A snATAC-seq single-cell atlas of the adult human retina, including 372K cells based on 52 samples from 26 donors.
   repo:
   tags:
     - Retina
