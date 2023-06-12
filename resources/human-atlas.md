@@ -7,22 +7,4 @@ A single cell atlas of the human retina that is composed of 2.5 million single c
 
 {% include list.html component="card" data="tools" filters="group: human atlas" %}
 
-{% include section.html %}
 
-# scRNA-seq Datasets | A single-cell transcriptomic atlas for adult human retina
-A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
-
-{% include link.html type="external" link="https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7" text="Explore" icon="" style="button" %}
-{:.center}
-<br><br>
-# snATAC-seq Datasets | A multi-omics atlas of the human retina at single-cell resolution
-We generated and integrated a multi-omics single-cell atlas of the adult human retina, including over 250K nuclei for single-nuclei RNA-seq and 137K nuclei for single-nuclei ATAC-seq. Cross species comparison of the retina atlas among human, monkey, mice, and chicken revealed relatively conserved and non-conserved types. Furthermore, integrative analysis of the single cell multi-omics data identified 35k distal cis-element-gene pairs with most of these cis-elements being cell type specific. Moreover, we constructed transcription factor (TF)-target regulons for over 200 TFs, partitioned the TFs into distinct co-active modules, and annotated each module based on their cell-type specificity. Taken together, we present the most comprehensive single-cell multi-omics atlas of the human retina as a valuable resource that enables systematic in-depth molecular characterization at individual cell type resolution.
-
-{% include link.html type="external" link="https://cells-test.gi.ucsc.edu/?ds=retina-atlas+atac" text="Explore" icon="" style="button" %}
-{:.center}
-<br><br>
-# Gene expression values
-A table of the gene expression values for BC subclasses’ pseudo bulk. Each value is the median of normalized expressions among samples in the meta datasets for BC subclasses pseudo bulk (i.e., FPKM values).
-
-{% include link.html type="external" link="" text="Download" icon="" style="button" %}
-{:.center}
