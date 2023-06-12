@@ -12,11 +12,11 @@
     - scRNA-seq
     - snATAC-seq
 
-- title: Single-cell transcriptomic atlas for mouse retina
+- title: Mouse retina atlas
   subtitle:
   group: single cell
   image: images/mouse_atlas.png
-  link: https://mouseatlas.research.bcm.edu
+  link: https://rchenlab.github.io/resources/mouse-atlas.html
   description: A unified single-cell atlas of the mouse retina using the most comprehensive approximately 250,000 single cells from our in-house experiments complementing public datasets. Cell labeling of 11 major types and over 120 subtypes form a unified single-cell reference for the mouse retina.
   repo:
   tags:
@@ -64,9 +64,21 @@
     - Allele Frequency
     - NGS
 
+- title: scRNA-seq Datasets
+  subtitle:
+  group: mouse atlas
+  image: images/mouse_atlas.png
+  link: https://mouseatlas.research.bcm.edu
+  description: A unified single-cell atlas of the mouse retina using the most comprehensive approximately 250,000 single cells from our in-house experiments complementing public datasets. Cell labeling of 11 major types and over 120 subtypes form a unified single-cell reference for the mouse retina.
+  repo:
+  tags:
+    - Retina
+    - Cell Atlas
+    - Mouse
+    
 - title: Spatial atlas of mouse retina
   subtitle: 
-  group: single cell
+  group: mouse atlas
   image: images/SCO5.png
   link: https://cellatlas.research.bcm.edu/
   description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
