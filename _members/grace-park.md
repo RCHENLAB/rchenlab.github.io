@@ -1,5 +1,5 @@
 ---
-name: Grace Chaewon Park
+name: Grace Park
 image: images/member/grace.jpeg
 description: Undergraduate Student
 role: undergrad
