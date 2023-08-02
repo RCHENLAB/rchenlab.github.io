@@ -1,5 +1,5 @@
 ---
-name: Jocelyn Megan Lee
+name: Jocelyn Lee
 image: images/member/jocelyn.jpeg
 description: Undergraduate Student
 role: undergrad
