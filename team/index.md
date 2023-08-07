@@ -79,6 +79,23 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 ## Alumni
 
 {% include section.html %}
+<small><b>Xinye Qian, PHD Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="xinye-q-6767ab12b"
+%}
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="xinye-q-6767ab12b"
+%}
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
   include link.html
@@ -88,5 +105,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="giancarlo.valenzuela@bcm.edu"
 %}
+
 {:.center}
 
