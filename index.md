@@ -97,7 +97,7 @@ We are a team of enthusiastic researchers and we strive to build an inclusive en
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/pottery/summer6.jpg"
   link="team"
   title="Our Team"
   text=text
