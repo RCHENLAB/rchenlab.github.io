@@ -96,6 +96,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="zLLGFD0AAAAJ&hl=en"
 %}
+
+
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
   include link.html
