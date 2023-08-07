@@ -79,8 +79,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 ## Alumni
 
 {% include section.html %}
-
-<small><b>Xinye Qian, PHD Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
+#### Ph.D. Students
+<small><b>Xinye Qian, Ph.D. Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
 {%
   include link.html
   type="linkedin"
@@ -97,7 +97,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="zLLGFD0AAAAJ&hl=en"
 %}<br>
-<small><b>Qingnan Liang, PHD Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. at MD Anderson</small>
+<small><b>Qingnan Liang, Ph.D. Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. at MD Anderson</small>
 {%
   include link.html
   type="linkedin"
@@ -114,7 +114,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="jh5pmk4AAAAJ&hl=zh-CN"
 %}<br>
-<small><b>Renae Bertrand, PHD Student 2016-2021.</b> Current position: Research Investigator in the lab of Dr. Yuan Pan at MD Anderson</small>
+<small><b>Renae Bertrand, Ph.D. Student 2016-2021.</b> Current position: Research Investigator in the lab of Dr. Yuan Pan at MD Anderson</small>
 {%
   include link.html
   type="linkedin"
@@ -131,7 +131,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="https://www.researchgate.net/profile/Renae-Bertrand"
 %}<br>
-<small><b>Rachayata Dharmat, PHD Student 2013-2019.</b> Current position: Postdoctoral HHMI Research fellow at St. Jude Children's Research Hospital</small>
+<small><b>Rachayata Dharmat, Ph.D. Student 2013-2019.</b> Current position: Postdoctoral HHMI Research fellow at St. Jude Children's Research Hospital</small>
 {%
   include link.html
   type="linkedin"
@@ -148,7 +148,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="https://www.researchgate.net/profile/Rachayata-Dharmat-2"
 %}<br>
-<small><b>Evan Jones, PHD Student 2013-2019.</b> Current position: Founder of DxDB, LLC Consulting</small>
+<small><b>Evan Jones, Ph.D. Student 2013-2019.</b> Current position: Founder of DxDB, LLC Consulting</small>
 {%
   include link.html
   type="linkedin"
@@ -165,7 +165,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="https://www.researchgate.net/scientific-contributions/Evan-M-Jones-2135724421"
 %}<br>
-<small><b>Smriti Agrawal Zaneveld, PHD Student 2014-2018.</b> Current position: Founder, President, COO, Lazarus 3D, Inc.</small>
+<small><b>Smriti Agrawal Zaneveld, Ph.D. Student 2014-2018.</b> Current position: Founder, President, COO, Lazarus 3D, Inc.</small>
 {%
   include link.html
   type="linkedin"
@@ -182,7 +182,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="iwHWfGYAAAAJ"
 %}<br>
-<small><b>Mingchu Xu, PHD Student 2012-2017.</b> Current position: Applied Scientist at Amazon</small>
+<small><b>Mingchu Xu, Ph.D. Student 2012-2017.</b> Current position: Applied Scientist at Amazon</small>
 {%
   include link.html
   type="linkedin"
@@ -199,7 +199,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="iI64nyoAAAAJ&hl=en"
 %}<br>
-<small><b>Jacques Zaneveld, PHD Student 2010-2015.</b> Current position: Founder and CEO at Lazarus 3D</small>
+<small><b>Jacques Zaneveld, Ph.D. Student 2010-2015.</b> Current position: Founder and CEO at Lazarus 3D</small>
 {%
   include link.html
   type="linkedin"
@@ -216,6 +216,17 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="gA6FtVAAAAAJ"
 %}<br>
+
+#### Postdocs
+<small><b>Aiden Eblimit, Postdoc->Instructor 2003-2017.</b> Current position: Senior Scientist of ophthalmology in at Arrowhead Pharmaceuticals</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="aiden-eblimit-6314257a"
+%}
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
   include link.html
