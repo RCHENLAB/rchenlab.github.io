@@ -97,6 +97,41 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   link="zLLGFD0AAAAJ&hl=en"
 %}
 
+<small><b>Qingnan Liang, PHD Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. at MD Anderson</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="qingnan-liang-1b2024151"
+%}
+{%
+  include link.html
+  type="google-scholar"
+  icon=""
+  text="Google Scholar"
+  tooltip=""
+  link="jh5pmk4AAAAJ&hl=zh-CN"
+%}
+
+<small><b>Renae Bertrand, PHD Student 2016-2021.</b> Current position: Research Investigator in the lab of Dr. Yuan Pan at MD Anderson</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="renae-bertrand"
+%}
+{%
+  include link.html
+  type="home"
+  icon=""
+  text="ResearchGate"
+  tooltip=""
+  link="https://www.researchgate.net/profile/Renae-Bertrand"
+%}
 
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
