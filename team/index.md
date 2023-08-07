@@ -257,6 +257,15 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="nathaniel-wu-1a21b7151"
 %}<br>
+<small><b>Shelly Fu, Undergraduate Research Assistant 2017-2021.</b> Current position: Medical Student at Baylor College of Medicine</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="shangyi-shelly-fu-b6565a14a"
+%}<br>
 <small><b>Pablo Alarcon, Undergraduate Research Assistant 2019-2020.</b> Current position: Graduate student at UCLA School of Dentistry</small>
 {%
   include link.html
@@ -266,6 +275,14 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="pablo-alarcon-827092197"
 %}<br>
-
+<small><b>Chinthana Thangavel, Undergraduate Research Assistant 2018-2020.</b> Current position: Medical Student at Texas Tech University Health Sciences Center El Paso</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="chinthana-thangavel-3523771aa"
+%}<br>
 {:.center}
 
