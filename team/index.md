@@ -284,5 +284,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="chinthana-thangavel-3523771aa"
 %}<br>
-{:.center}
 
+### Visiting Scholars
+<small><b>Zhirong Wang, Visiting Scholar.</b> Current position: Zhongshang University</small><br>
+<small><b>Wenli Deng, Visiting Scholar.</b> Current position: The First Affiliated Hospital of Chongqing Medical University</small><br>
+<small><b>Gang Zou, Visiting Scholar.</b> Current position: Department of Ophthalmology, Ningxia Eye Hospital</small><br>
