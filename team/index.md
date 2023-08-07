@@ -79,7 +79,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 ## Alumni
 
 {% include section.html %}
-#### Ph.D. Students
+### Ph.D. Students
 <small><b>Xinye Qian, Ph.D. Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
 {%
   include link.html
@@ -217,8 +217,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   link="gA6FtVAAAAAJ"
 %}<br>
 
-#### Postdocs
-<small><b>Aiden Eblimit, Postdoc->Instructor 2003-2017.</b> Current position: Senior Scientist of ophthalmology in at Arrowhead Pharmaceuticals</small>
+### Postdoctoral Researchers
+<small><b>Aiden Eblimit, Postdoc->Instructor 2003-2017.</b> Current position: Senior Scientist of ophthalmology at Arrowhead Pharmaceuticals</small>
 {%
   include link.html
   type="linkedin"
@@ -226,7 +226,18 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   text="LinkedIn"
   tooltip=""
   link="aiden-eblimit-6314257a"
-%}
+%}<br>
+
+### Undergraduate Researchers
+<small><b>Joseph Quinlan, Undergraduate Student Helper 2022-2023.</b> Current position: Undergraduate student in Bioengineering at Rice University</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="joseph-quinlan-847911226"
+%}<br>
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
   include link.html
@@ -235,7 +246,26 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   text="Email"
   tooltip=""
   link="giancarlo.valenzuela@bcm.edu"
-%}
+%}<br>
+<small><b>Kaitlyn Xiong, Undergraduate Research Assistant 2018-2021.</b> Current position: Medical Student at Yale</small><br>
+<small><b>Nathanial Wu, Undergraduate Research Assistant 2018-2021.</b> Current position: Medical Student at UT Southwestern</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="nathaniel-wu-1a21b7151"
+%}<br>
+<small><b>Pablo Alarcon, Undergraduate Research Assistant 2019-2020.</b> Current position: Graduate student at UCLA School of Dentistry</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="pablo-alarcon-827092197"
+%}<br>
 
 {:.center}
 
