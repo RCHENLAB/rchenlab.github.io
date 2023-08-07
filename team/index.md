@@ -79,6 +79,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 ## Alumni
 
 {% include section.html %}
+
 <small><b>Xinye Qian, PHD Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
 {%
   include link.html
@@ -95,8 +96,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   text="Google Scholar"
   tooltip=""
   link="zLLGFD0AAAAJ&hl=en"
-%}
-
+%}<br>
 <small><b>Qingnan Liang, PHD Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. at MD Anderson</small>
 {%
   include link.html
@@ -126,11 +126,47 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 %}
 {%
   include link.html
-  type="home"
+  type="home-page"
   icon=""
   text="ResearchGate"
   tooltip=""
   link="https://www.researchgate.net/profile/Renae-Bertrand"
+%}
+
+<small><b>Rachayata Dharmat, PHD Student 2013-2019.</b> Current position: Postdoctoral HHMI Research fellow at St. Jude Children's Research Hospital</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="rachayata-dharmat"
+%}
+{%
+  include link.html
+  type="home-page"
+  icon=""
+  text="ResearchGate"
+  tooltip=""
+  link="https://www.researchgate.net/profile/Rachayata-Dharmat-2"
+%}
+
+<small><b>Evan Jones, PHD Student 2013-2019.</b> Current position: Founder of DxDB, LLC Consulting</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="evan-jones-phd"
+%}
+{%
+  include link.html
+  type="home-page"
+  icon=""
+  text="ResearchGate"
+  tooltip=""
+  link="https://www.researchgate.net/scientific-contributions/Evan-M-Jones-2135724421"
 %}
 
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
