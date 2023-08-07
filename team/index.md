@@ -82,7 +82,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 <small><b>Xinye Qian, PHD Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
 {%
   include link.html
-  type="LinkedIn"
+  type="linkedin"
   icon=""
   text="LinkedIn"
   tooltip=""
@@ -90,7 +90,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 %}
 {%
   include link.html
-  type="Google Scholar"
+  type="google-scholar"
   icon=""
   text="Google Scholar"
   tooltip=""
