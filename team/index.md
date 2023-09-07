@@ -97,7 +97,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="zLLGFD0AAAAJ&hl=en"
 %}<br>
-<small><b>Qingnan Liang, Ph.D. Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. at MD Anderson</small>
+<small><b>Qingnan Liang, Ph.D. Student 2016-2022.</b> Current position: Postdoc in the lab of Dr. Chen Ken at MD Anderson</small>
 {%
   include link.html
   type="linkedin"
