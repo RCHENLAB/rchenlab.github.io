@@ -5,4 +5,4 @@ author:
 member: All
 ---
 
-We welcome new postdoctoral researcher Ye Zheng M.D., Ph.D.!
+We welcome new postdoctoral researcher Yexuan Cao Ph.D.!
