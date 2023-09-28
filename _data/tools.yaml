@@ -44,7 +44,7 @@
   subtitle: 
   group: genetics
   image: images/macaque.jpg
-  link: http://mhgcp-t58.grid.bcm.edu/macaque/index.html
+  link: https://ird.research.bcm.edu/macaque/
   description: The Macaque Genome Database is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects of Macaque. You need to access under BCM network.
   repo: 
   tags:
