@@ -508,22 +508,21 @@
   - Single cell multiomics
   topics:
   - Single Cell Omics
-- id: doi:10.1101/2022.12.04.518972
-  title: Spatial organization of the mouse retina at single cell resolution
+- id: doi:10.1038/s41467-023-40674-3
+  title: Spatial organization of the mouse retina at single cell resolution by MERFISH
   authors:
   - Jongsu Choi
   - Jin Li
   - Salma Ferdous
   - Qingnan Liang
-  - Jeffrey R Moffitt
+  - Jeffrey R. Moffitt
   - Rui Chen
-  publisher: Preprint
-  date: '2022-12-05'
-  link: https://doi.org/grdsf6
-  image: https://rchenlab.github.io/images/SCO4.png
+  publisher: Nature Communications
+  date: '2023-08-15'
+  link: https://doi.org/gsv86j
+  image: https://www.nature.com/articles/s41467-023-40674-3/figures/2
   extra-links:
-  - type: preprint
-    link: https://cellatlas.research.bcm.edu/
+  - link: https://cellatlas.research.bcm.edu/
     text: Data visualization
   tags:
   - Spatial
