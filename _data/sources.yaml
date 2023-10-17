@@ -164,11 +164,10 @@
   topics:
   - Single Cell Omics
 
-- id: doi:10.1101/2022.12.04.518972
-  image: https://rchenlab.github.io/images/SCO4.png
+- id: doi:10.1038/s41467-023-40674-3
+  image: https://www.nature.com/articles/s41467-023-40674-3/figures/2
   extra-links:
-    - type: preprint
-      link: https://cellatlas.research.bcm.edu/
+    - link: https://cellatlas.research.bcm.edu/
       text: Data visualization
   tags:
   - Spatial
