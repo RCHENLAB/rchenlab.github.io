@@ -482,23 +482,26 @@
   - Human Retina
   topics:
   - Single Cell Omics
-- id: doi:10.1101/2022.11.16.516814
-  title: Integrative single cell multiomics analysis of human retina indicates a role
-    for hierarchical transcription factors collaboration in genetic effects on gene
-    regulation
+- id: doi:10.1186/s13059-023-03111-8
+  title: Single-cell multiomics of the human retina reveals hierarchical transcription
+    factor collaboration in mediating cell type-specific effects of genetic variants
+    on gene regulation
   authors:
   - Jun Wang
   - Xuesen Cheng
   - Qingnan Liang
   - Leah A. Owen
+  - Jiaxiong Lu
+  - Yiqiao Zheng
   - Meng Wang
+  - Shiming Chen
   - Margaret M. DeAngelis
   - Yumei Li
   - Rui Chen
-  publisher: Preprint
-  date: '2022-11-17'
-  link: https://doi.org/grb9vs
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.16.516814/F1.large.jpg?width=800&height=600&carousel=1
+  publisher: Genome Biology
+  date: '2023-11-27'
+  link: https://doi.org/gs8qx8
+  image: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03111-8/figures/1
   extra-links: null
   tags:
   - sc-eQTL
