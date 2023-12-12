@@ -45,6 +45,12 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   include list.html
   data="members"
   component="portrait"
+  filters="role: re"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
