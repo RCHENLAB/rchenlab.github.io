@@ -18,6 +18,10 @@ postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
+re:
+  icon: fas fa-glasses
+  text: Researcher
+  
 phd:
   icon: fas fa-graduation-cap
   text: Graduate Student
