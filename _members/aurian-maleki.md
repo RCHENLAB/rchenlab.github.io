@@ -9,4 +9,4 @@ links:
   email: aurian.maleki@bcm.edu
 ---
 
-Soo Oh is a research technician in the Chen lab who started as an undergraduate student in June 2021. He received his Bachelor of Science in Biosciences from Rice University in December 2022. His current research in the Chen lab focuses on: 1) small molecule therapeutics that induce neuronal regeneration in mouse following retinal damage and 2) implementing single-cell spatial technology on the mouse trigeminal ganglion and dorsal root ganglion.
+Aurian Maleki is a research technician in the Chen lab who started as a member of the spatial transcriptomics team in November 2023. He received his Bachelor of Arts in Chemistry from Rice University in May 2023. His current research in the Chen lab focuses on: 1) transcriptome profiling of lower central nervous system structures and 2) implementing cell segmentation algorithms for spatial image processing and analysis.
