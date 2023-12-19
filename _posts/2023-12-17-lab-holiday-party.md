@@ -11,20 +11,32 @@ We have a wonderful lab party as we get closer to the end of 2023. We enjoy the 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/post/holiday2023_1.jpeg"
+  image="images/post/holiday2023_3.jpeg"
 %}
 {% endcapture %}
 
 {% capture col2 %} 
 {%
   include figure.html
-  image="images/post/holiday2023_2.jpeg"
+  image="images/post/holiday2023_4.jpeg"
 %}
 {% endcapture %}
 
 {% include two-col.html col1=col1 col2=col2 %}
 
+{% capture col3 %}
 {%
   include figure.html
-  image="images/post/holiday2023_3.jpeg"
+  image="images/post/holiday2023_1.jpeg"
 %}
+{% endcapture %}
+
+{% capture col4 %} 
+{%
+  include figure.html
+  image="images/post/holiday2023_2.jpeg"
+%}
+{% endcapture %}
+
+{% include two-col.html col1=col3 col2=col4 %}
+
