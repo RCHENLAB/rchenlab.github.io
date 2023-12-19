@@ -26,5 +26,5 @@ We have a wonderful lab party as we get closer to the end of 2023. We enjoy the 
 
 {%
   include figure.html
-  image="images/post/holiday2023_1.jpeg"
+  image="images/post/holiday2023_3.jpeg"
 %}
