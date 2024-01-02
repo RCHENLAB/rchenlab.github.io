@@ -5,4 +5,4 @@ author:
 member: All
 ---
 
-We welcome new Research Technician Aurian Maleki!
+We welcome new research technician Aurian Maleki!
