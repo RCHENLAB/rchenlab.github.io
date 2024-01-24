@@ -104,12 +104,12 @@
     - Bi-order
     - Integration
 
-- title: scRNA-seq Datasets
+- title: CELLxGENE
   subtitle:
   group: human atlas
   image: images/HA1.png
-  link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
-  description: A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
+  link: https://cellxgene.cziscience.com/collections/4c6eaf5c-6d57-4c76-b1e9-60df8c655f1e
+  description: CELLxGENE provides data collection for the Human Retina Cell Atlas (HRCA) with six datasets. It is suitable for exploring gene expression for either a single gene or a set of genes, as well as for analyzing the differential gene expression between cell clusters for various retinal cell types.
   repo:
   tags:
     - Retina
@@ -117,24 +117,24 @@
     - scRNA-seq
 
     
-- title: snATAC-seq Datasets
+- title: UCSC Cell browser
   subtitle:
   group: human atlas
   image: images/HA3.png
-  link: https://cells-test.gi.ucsc.edu/?ds=retina-atlas+atac
-  description: We present the most comprehensive single-cell multi-omics atlas of the human retina as a valuable resource that enables systematic in-depth molecular characterization at individual cell type resolution.
+  link: https://cells.ucsc.edu/?ds=retina+hrca
+  description: UCSC Cell Browser provides specialized interfaces to explore multi-omic data of the Human Retina Cell Atlas (HRCA). 
   repo:
   tags:
     - Retina
     - Human
-    - snATAC-seq
+    - multi-omic
     
-- title: snATAC-seq peak tracks of major retinal cell types
+- title: HCA DCP
   subtitle:
   group: human atlas
   image: images/HA4.png
-  link: https://genome.ucsc.edu/s/bwick/chen%2Dretina%2Datlas
-  description: A snATAC-seq single-cell atlas of the adult human retina, including 372K cells based on 52 samples from 26 donors.
+  link: https://data.humancellatlas.dev.clevercanary.com/hca-bio-networks/eye/atlases/retina-v1-0
+  description: Two parallel references were derived from single cell and single nuclei RNA-seq, respectively. Over 110 cell types in the human retina are identified, nearly doubling the number reported in previous studies. Integrative atlas with RNA and ATAC-seq, generating comprehensive gene regulatory landscape at single-cell resolution for the human retina.
   repo:
   tags:
     - Retina
