@@ -13,16 +13,16 @@ Our software, tools, datasets, etc. are open-source, and free for anyone around 
 
 {% include section.html %}
 
-## Single Cell
+## Data portal
 
-{% include list.html component="card" data="tools" filters="group: single cell" %}
+{% include list.html component="card" data="tools" filters="group: data portal" %}
 
 {% include section.html %}
 
 
-## Genetics
+## Software and Tools
 
-{% include list.html component="card" data="tools" filters="group: genetics" %}
+{% include list.html component="card" data="tools" filters="group: software" %}
 
 {% include section.html %}
 
