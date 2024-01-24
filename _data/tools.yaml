@@ -78,17 +78,25 @@
     - Allele Frequency
     - NGS
 
-- title: scRNA-seq Datasets
+- title: Unified comprehensive single-cell atlas of the mouse retina
   subtitle:
   group: mouse atlas
   image: images/mouse_atlas.png
-  link: https://mouseatlas.research.bcm.edu
-  description: A unified single-cell atlas of the mouse retina using the most comprehensive approximately 250,000 single cells from our in-house experiments complementing public datasets. Cell labeling of 11 major types and over 120 subtypes form a unified single-cell reference for the mouse retina.
-  repo:
+  link: https://cellxgene.cziscience.com/collections/a0c84e3f-a5ca-4481-b3a5-ccfda0a81ecc
+  description: By integrating this new dataset with public datasets, we conducted an integrated analysis to construct the Mouse Retina Cell Atlas (MRCA) for wild-type mice, which encompasses over 323,000 single cells. The MRCA characterizes 11 major classes and 137 cell types.
   tags:
-    - Retina
-    - Cell Atlas
-    - Mouse
+    - Mouse Retina
+    - Single Cell Atlas
+
+- title: UCSC Cell browser
+  subtitle:
+  group: mouse atlas
+  image: images/mouse_atlas.png
+  link: https://cells.ucsc.edu/?ds=retina+mrca
+  description: UCSC Cell Browser provides specialized interfaces to explore multi-omic data of the Mouse Retina Cell Atlas (MRCA).
+  tags:
+    - Mouse Retina
+    - Multi-omics
     
 - title: Spatial atlas of mouse retina
   subtitle: 
@@ -98,9 +106,8 @@
   description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
   repo: 
   tags:
-    - MERFISH
-    - Dataset
     - Mouse Retina
+    - MERFISH
     - Spatial
     
 
@@ -112,9 +119,8 @@
   description: CELLxGENE provides data collection for the Human Retina Cell Atlas (HRCA) with six datasets. It is suitable for exploring gene expression for either a single gene or a set of genes, as well as for analyzing the differential gene expression between cell clusters for various retinal cell types.
   repo:
   tags:
-    - Retina
-    - Human
-    - scRNA-seq
+    - Human Retina
+    - scRNA-seq snRNA-seq
 
 - title: UCSC Cell browser
   subtitle:
@@ -124,9 +130,8 @@
   description: UCSC Cell Browser provides specialized interfaces to explore multi-omic data of the Human Retina Cell Atlas (HRCA). 
   repo:
   tags:
-    - Retina
-    - Human
-    - multi omics
+    - Human Retina
+    - Multi-omics
     
 - title: HCA DCP
   subtitle:
@@ -136,6 +141,4 @@
   description: Two parallel references were derived from single cell and single nuclei RNA-seq, respectively. Over 110 cell types in the human retina are identified, nearly doubling the number reported in previous studies. Integrative atlas with RNA and ATAC-seq, generating comprehensive gene regulatory landscape at single-cell resolution for the human retina.
   repo:
   tags:
-    - Retina
-    - Human
-    - snATAC-seq
+    - Human Retina
