@@ -34,7 +34,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
 {%
   include gallery.html
 
-  image1="images/SCO1.png"
+  image1="images/SCO3.png"
   link1="https://data.humancellatlas.dev.clevercanary.com/hca-bio-networks/eye/atlases/retina-v1-0"
   tooltip1="Human retina cell atlas."
 
