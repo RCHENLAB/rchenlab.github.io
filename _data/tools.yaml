@@ -128,7 +128,7 @@
 - title: HCA DCP
   subtitle:
   group: human retina atlas
-  image: images/HRA3.png
+  image: images/HRA3.jpeg
   link: https://data.humancellatlas.dev.clevercanary.com/hca-bio-networks/eye/atlases/retina-v1-0
   description: Two parallel references were derived from single cell and single nuclei RNA-seq, respectively. Over 110 cell types in the human retina are identified, nearly doubling the number reported in previous studies. Integrative atlas with RNA and ATAC-seq, generating comprehensive gene regulatory landscape at single-cell resolution for the human retina.
   repo:
