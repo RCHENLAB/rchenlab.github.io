@@ -7,6 +7,6 @@ A single cell atlas of the human retina that is composed of 2.5 million single c
 
 {% include section.html background="images/SCO2.png" dark=true%}
 
-{% include list.html component="card" data="tools" filters="group: human atlas" %}
+{% include list.html component="card" data="tools" filters="group: human retina atlas" %}
 
 
