@@ -73,7 +73,7 @@
 - title: Unified comprehensive single-cell atlas of the mouse retina
   subtitle:
   group: mouse atlas
-  image: images/mouse_atlas.png
+  image: images/MRA1.png
   link: https://cellxgene.cziscience.com/collections/a0c84e3f-a5ca-4481-b3a5-ccfda0a81ecc
   description: By integrating this new dataset with public datasets, we conducted an integrated analysis to construct the Mouse Retina Cell Atlas (MRCA) for wild-type mice, which encompasses over 323,000 single cells. The MRCA characterizes 11 major classes and 137 cell types.
   tags:
@@ -83,7 +83,7 @@
 - title: UCSC Cell browser
   subtitle:
   group: mouse atlas
-  image: images/mouse_atlas.png
+  image: images/MRA2.png
   link: https://cells.ucsc.edu/?ds=retina+mrca
   description: UCSC Cell Browser provides specialized interfaces to explore multi-omic data of the Mouse Retina Cell Atlas (MRCA).
   tags:
@@ -93,7 +93,7 @@
 - title: Spatial atlas of mouse retina
   subtitle: 
   group: mouse atlas
-  image: images/SCO5.png
+  image: images/MRA3.png
   link: https://cellatlas.research.bcm.edu/
   description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
   repo: 
@@ -117,7 +117,7 @@
 - title: UCSC Cell browser
   subtitle:
   group: human retina atlas
-  image: images/HRA3.png
+  image: images/HRA2.png
   link: https://cells.ucsc.edu/?ds=retina+hrca
   description: UCSC Cell Browser provides specialized interfaces to explore multi-omic data of the Human Retina Cell Atlas (HRCA). 
   repo:
@@ -128,7 +128,7 @@
 - title: HCA DCP
   subtitle:
   group: human retina atlas
-  image: images/HRA4.png
+  image: images/HRA3.png
   link: https://data.humancellatlas.dev.clevercanary.com/hca-bio-networks/eye/atlases/retina-v1-0
   description: Two parallel references were derived from single cell and single nuclei RNA-seq, respectively. Over 110 cell types in the human retina are identified, nearly doubling the number reported in previous studies. Integrative atlas with RNA and ATAC-seq, generating comprehensive gene regulatory landscape at single-cell resolution for the human retina.
   repo:
