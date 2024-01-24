@@ -1,4 +1,4 @@
-- title: Human cell atlas
+- title: Human Cell Atlas
   subtitle:
   group: data portal
   image: images/human_atlas.png
@@ -24,7 +24,7 @@
     - MERFISH
     - Spatial
 
-- title: Macaque Capture and Exome database
+- title: Macaque Capture and Exome Database
   subtitle: 
   group: data portal
   image: images/macaque.jpg
@@ -48,6 +48,17 @@
     - Software
     - Bi-order
     - Integration
+
+- title: Monopogen
+  subtitle: SNV calling from single cell sequencing data
+  group: software
+  image: https://github.com/KChen-lab/Monopogen/blob/main/example/Fig1.png
+  link: https://github.com/KChen-lab/Monopogen
+  description: Monopogen is an analysis package for SNV calling from single-cell sequencing. Monopogen works on sequencing datasets generated from single cell RNA 10x 5', 10x 3', single ATAC-seq technoloiges, scDNA-seq etc.
+  repo: 
+  tags:
+    - Software
+    - SNV calling
     
 - title: GRIPT
   subtitle: A novel case-control analysis method for Mendelian disease gene discovery
@@ -60,19 +71,6 @@
     - Software
     - Gene Identification
     - Gene Discovery
-    - NGS
-    
-- title: Binomial Test
-  subtitle: A novel statistical method for interpreting the pathogenicity of rare variants
-  group: software
-  image: images/binomial.jpg
-  link: https://github.com/fe4960/Binomial_test
-  description: A novel statistical test by combining sequencing data from a patient cohort with a normal control population database. By comparing the expected and observed allele frequency in the patient cohort, variants that are likely benign can be identified.
-  repo:
-  tags:
-    - Software
-    - Variant Validation
-    - Allele Frequency
     - NGS
 
 - title: Unified comprehensive single-cell atlas of the mouse retina
