@@ -13,7 +13,7 @@ A single cell atlas of the human retina that is composed of 2.5 million single c
 
 ## Tutorials
 
-{% include HRCA_video.html %}
+{% include HRCA_video.html %}{:.center}
 
 
 
