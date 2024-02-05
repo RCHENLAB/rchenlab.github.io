@@ -235,15 +235,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 %}<br>
 
 ### Undergraduate Researchers
-<small><b>Joseph Quinlan, Undergraduate Student Helper 2022-2023.</b> Current position: Undergraduate student in Bioengineering at Rice University</small>
-{%
-  include link.html
-  type="linkedin"
-  icon=""
-  text="LinkedIn"
-  tooltip=""
-  link="joseph-quinlan-847911226"
-%}<br>
 <small><b>Giancarlo Valenzuela, Undergraduate Student Helper 2022.</b> Current position: Undergraduate student in Biosciences at Rice University</small>
 {%
   include link.html
