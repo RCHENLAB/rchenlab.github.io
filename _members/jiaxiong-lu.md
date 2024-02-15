@@ -1,8 +1,8 @@
 ---
 name: Jiaxiong Lu
 image: images/member/jiaxiong.jpg
-description: Graduate Student
-role: phd
+description: Postdoctoral Researcher
+role: postdoc
 aliases:
   - Jiaxiong Lu
   - J. Lu
