@@ -125,6 +125,7 @@
   tags:
     - Human Retina
     - Multi-omics
+    - RNA-seq ATAC-seq
     - UCSC Cell browser
     
 - title: Single Cell Multiome Atlas of the Human Fetal Retina
@@ -136,7 +137,9 @@
   repo:
   tags:
     - Human Fetal Retina
+    - Developing
     - Multi-omics
+    - RNA-seq ATAC-seq
     - CELLxGENE
 
 - title: HCA DCP
