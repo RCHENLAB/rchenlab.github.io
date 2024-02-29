@@ -103,7 +103,7 @@
     - Spatial
     
 
-- title: CELLxGENE
+- title: Single Cell Atlas of the Human Retina
   subtitle:
   group: human retina atlas
   image: images/HRA1.png
@@ -113,8 +113,9 @@
   tags:
     - Human Retina
     - scRNA-seq snRNA-seq
+    - CELLxGENE
 
-- title: UCSC Cell browser
+- title: Single Cell Multiome Atlas of the Human Retina
   subtitle:
   group: human retina atlas
   image: images/HRA2.png
@@ -124,7 +125,20 @@
   tags:
     - Human Retina
     - Multi-omics
+    - UCSC Cell browser
     
+- title: Single Cell Multiome Atlas of the Human Fetal Retina
+  subtitle:
+  group: human retina atlas
+  image: images/HRA4.png
+  link: https://cellxgene.cziscience.com/collections/4832df54-d357-4d0f-b601-e924823b38b7
+  description: To provide a comprehensive view of the human fetal retina at the molecular level and investigate transcriptional regulatory mechanisms controlling the differentiation process, we profiled more than 300,000 single nuclei of the human fetal retina from 12 donors spanning post conception week 10 and 23 with Multiome RNA-seq and ATAC-seq.
+  repo:
+  tags:
+    - Human Fetal Retina
+    - Multi-omics
+    - CELLxGENE
+
 - title: HCA DCP
   subtitle:
   group: human retina atlas
