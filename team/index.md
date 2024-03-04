@@ -224,6 +224,15 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 %}<br>
 
 ### Postdoctoral Researchers
+<small><b>Salma Ferdous, Postdoc 2021-2024.</b> Current position: Consultant at ClearView Healthcare Partners</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="salmaferdous"
+%}<br>
 <small><b>Aiden Eblimit, Postdoc->Instructor 2003-2017.</b> Current position: Senior Scientist of ophthalmology at Arrowhead Pharmaceuticals</small>
 {%
   include link.html
