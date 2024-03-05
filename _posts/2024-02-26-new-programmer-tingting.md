@@ -5,4 +5,4 @@ author:
 member: All
 ---
 
-We welcome new bioinformatics programmer Tingting Yang!
+We welcome new bioinformatics programmer Tingting Yang Ph.D.!
