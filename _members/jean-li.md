@@ -1,8 +1,8 @@
 ---
 name: Jean Li
 image: images/member/jean.jpeg
-description: Research Technician II
-role: staff
+description: Graduate Student
+role: phd
 aliases:
   - Jean Li
 links:
