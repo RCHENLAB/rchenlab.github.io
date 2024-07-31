@@ -8,7 +8,7 @@ aliases:
   - Y. Li
   - Y Li
 links:
-  email: yumeil@bcm.edu
+  email: yumeil3@hs.uci.edu
   linkedin: yumei-li-149525140
 
 ---
