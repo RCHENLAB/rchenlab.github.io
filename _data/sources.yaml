@@ -175,3 +175,15 @@
   - MERFISH
   topics:
   - Single Cell Omics
+
+- id: doi:10.1038/s41467-024-50853-5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50853-5/MediaObjects/41467_2024_50853_Fig1_HTML.png?as=webp
+  extra-links:
+    - link: https://cellxgene.cziscience.com/collections/4832df54-d357-4d0f-b601-e924823b38b7
+      text: Data visualization
+  tags:
+  - Developing
+  - Human Retina
+  - Single cell multiomics
+  topics:
+  - Single Cell Omics
