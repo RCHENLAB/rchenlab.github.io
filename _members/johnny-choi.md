@@ -10,7 +10,7 @@ aliases:
   - J Choi
 links:
   home-page: https://www.researchgate.net/profile/Jongsu-Choi-2
-  email: jongsu.choi@bcm.edu
+  email: johnny.choi@uci.edu
   linkedin: johnnychoi01
 ---
 
