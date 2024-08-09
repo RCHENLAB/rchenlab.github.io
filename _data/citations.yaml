@@ -533,3 +533,35 @@
   - MERFISH
   topics:
   - Single Cell Omics
+- id: doi:10.1038/s41467-024-50853-5
+  title: Single cell dual-omic atlas of the human developing retina
+  authors:
+  - Zhen Zuo
+  - Xuesen Cheng
+  - Salma Ferdous
+  - Jianming Shao
+  - Jin Li
+  - Yourong Bao
+  - Jean Li
+  - Jiaxiong Lu
+  - Antonio Jacobo Lopez
+  - Juliette Wohlschlegel
+  - Aric Prieve
+  - Mervyn G. Thomas
+  - Thomas A. Reh
+  - Yumei Li
+  - Ala Moshiri
+  - Rui Chen
+  publisher: Nature Communications
+  date: '2024-08-09'
+  link: https://doi.org/gt6pfg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50853-5/MediaObjects/41467_2024_50853_Fig1_HTML.png?as=webp
+  extra-links:
+  - link: https://cellxgene.cziscience.com/collections/4832df54-d357-4d0f-b601-e924823b38b7
+    text: Data visualization
+  tags:
+  - Developing
+  - Human Retina
+  - Single cell multiomics
+  topics:
+  - Single Cell Omics
