@@ -8,7 +8,7 @@ aliases:
   - J Li
   - J. Li
 links:
-  email: jin.li@bcm.edu
+  email: jin.li@uci.edu
 ---
 
 
