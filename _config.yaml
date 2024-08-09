@@ -1,7 +1,7 @@
 ### basic settings
 # site properties and page defaults
 title: Chen Lab
-subtitle: Baylor College of Medicine
+subtitle: University of California, Irvine
 description: Welcome to the laboratory of Dr. Rui Chen at Baylor College of Medicine!
 logo: images/logo.png
 logo-text: Chen Lab
@@ -11,12 +11,12 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: ruichen@bcm.edu
+  email: rui.chen@uci.edu
   google-scholar: F_4HNPAAAAAJ
   github: rchenlab
   twitter: rchenlab
   instagram: rchenlab
-  youtube: ChenLabChannel
+  youtube: Rchenlab
 
 ### advanced settings
 
