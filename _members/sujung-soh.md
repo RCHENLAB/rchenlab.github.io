@@ -8,7 +8,7 @@ aliases:
   - S Soh
   - S. Soh
 links:
-  email: sujung.soh@bcm.edu
+  email: sujung.soh@uci.edu
   linkedin: sujungsoh
   google-scholar: lciqStoAAAAJ&hl=ko
 ---
