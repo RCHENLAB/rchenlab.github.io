@@ -1,8 +1,8 @@
 ---
 name: Jin Li
 image: images/member/jin.jpeg
-description: Postdoctoral Researcher
-role: postdoc
+description: Assistant Researcher
+role: faculty
 aliases:
   - Jin Li
   - J Li
