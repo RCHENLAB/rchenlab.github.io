@@ -1,8 +1,8 @@
 ---
 name: Johnny (Jongsu) Choi
 image: images/member/johnny.jpeg
-description: Research Associate
-role: re
+description: Postdoctoral Researcher
+role: postdoc
 aliases:
   - Johnny Choi
   - Jongsu Choi
