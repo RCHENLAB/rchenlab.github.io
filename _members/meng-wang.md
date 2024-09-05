@@ -1,7 +1,7 @@
 ---
 name: Meng Wang
 image: images/member/meng_update.jpeg
-description: Bioinformatics Programmer
+description: Bioinformatics Specialist
 role: programmer
 aliases:
   - M. Wang
