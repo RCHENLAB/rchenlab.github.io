@@ -48,7 +48,7 @@ We are located on the 2nd floor of the Hewitt Hall.
 {% capture col2 %}
 {%
   include figure.html
-  image="images/UCI.jpeg"
+  image="images/IMG_4672.jpeg"
   caption="University of California Irvine"
 %}
 {% endcapture %}
