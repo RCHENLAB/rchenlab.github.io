@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-users"></i>Join The Team
 
 We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
-Positions open in the Chen lab can be found under [BCM career searching page](https://jobs.bcm.edu/search/?createNewAlert=false&q=&optionsFacetsDD_title=&optionsFacetsDD_dept=Molecular+%26+Human+Genetics+-+R.+Chen+%2890006737%29&optionsFacetsDD_department=&optionsFacetsDD_customfield1=)
+
 
 {% include section.html background="images/regeneration.jpg" dark=true%}
 ## Postdoc
@@ -16,7 +16,7 @@ Positions open in the Chen lab can be found under [BCM career searching page](ht
 
 We are recruiting audacious postdocs to uncover the genetic code of human diseases. We aim at systematically characterize the genetic variants, coding and noncoding, underlying human visual disorders. We integrate next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non-human primate models, and machine learning and deep learning technologies approach to iteratively improve our ability to identify, assess, and predict the function of genetic variants in the context of human diseases.  Applicants with experiences in human genetics, genomics, molecular biology, bioinformatics, machine learning are most welcome.
 
-{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:rui.chen@uci.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 
@@ -24,7 +24,7 @@ We are recruiting audacious postdocs to uncover the genetic code of human diseas
 
 We welcome innovative postdocs who will push the limit of current technologies and software tools.  We are interested in advancing single cell omics technologies and applying cutting edge technologies to answer important biological questions.  Ph.D.s in genomics, bioinformatics, cell and molecular biology, neuroscience, and quantitative sciences are most welcome.
 
-{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:rui.chen@uci.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 
@@ -32,7 +32,7 @@ We welcome innovative postdocs who will push the limit of current technologies a
 
 We are looking for postdocs who are motivated to develop new cures for retinal degenerative diseases using the emerging genome editing approach.  The retina is an ideal system to test and optimize the genome editing technologies as novel therapeutic approaches.  In collaboration with various groups, our aim is to bring these exciting new technologies to human trial.
 
-{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:rui.chen@uci.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 <br><br><br>
@@ -46,6 +46,6 @@ If you are interested in learning more about genetics and genomics of human dise
 - Development of novel gene therapeutics through genome editing.
 - Neural regeneration and therapy.
 
-{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:rui.chen@uci.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
