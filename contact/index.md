@@ -19,7 +19,8 @@ We are located on the 2nd floor of the Hewitt Hall.
 
 <br><br>
 ##### Room 2501-12, Hewitt Hall
-##### Department of Ophthalmology, Center for Translational Vision Research
+##### Department of Ophthalmology
+##### Center for Translational Vision Research
 ##### University of California Irvine
 ##### 843 Health Science Road, Irvine, CA 92617
 ##### United States 
@@ -28,12 +29,20 @@ We are located on the 2nd floor of the Hewitt Hall.
   include link.html
   type="email"
   icon=""
-  text="rui.chen@uci.edu"
+  text="Email Dr. Rui Chen"
   tooltip=""
   link="rui.chen@uci.edu"
   style="button"
 %}
-
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email Dr. Yumei Li"
+  tooltip=""
+  link="yumeil3@hs.uci.edu"
+  style="button"
+%}
 {:.center}
 {% endcapture %}
 {% capture col2 %}
