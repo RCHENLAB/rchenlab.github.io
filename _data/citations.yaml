@@ -28,7 +28,7 @@
   - Mendelian Disease
   - Gene Discovery
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 - id: doi:10.1038/s41436-020-01003-x
   title: Ceramide synthase TLCD3B is a novel gene associated with human recessive
     retinal dystrophy
@@ -59,7 +59,7 @@
   - TLCD3B
   - Retinal Dystrophy
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 - id: doi:10.1038/s41436-020-00948-3
   title: A novel statistical method for interpreting the pathogenicity of rare variants
   authors:
@@ -84,7 +84,7 @@
   - Rare Variant
   - Mendelian Disease
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 - id: doi:10.1016/j.ajhg.2017.02.008
   title: Mutations in the Spliceosome Component CWC27 Cause Retinal Degeneration with
     or without Additional Developmental Anomalies
@@ -166,7 +166,7 @@
   - CWC27
   - Retinal Degeneration
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 - id: doi:10.1016/j.ajhg.2016.10.008
   title: Mutations in REEP6 Cause Autosomal-Recessive Retinitis Pigmentosa
   authors:
@@ -236,7 +236,7 @@
   - Retinitis Pigmentosa
   - Retinal Dystrophy
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 - id: doi:10.1186/s13059-022-02679-x
   title: Bi-order multimodal integration of single-cell data
   authors:
@@ -273,7 +273,7 @@
   - Bi-CCA
   - Integration
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1073/pnas.1901572116
   title: Generation, transcriptome profiling, and functional validation of cone-rich
     human retinal organoids
@@ -303,7 +303,7 @@
   - Cone and Rod Photoreceptor
   - Retinal Organoid
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1167/iovs.63.3.11
   title: <i>AAV8</i>-Mediated Gene Therapy Rescues Retinal Degeneration Phenotype
     in a <i>Tlcd3b</i> Knockout Mouse Model
@@ -327,7 +327,7 @@
   - Retinal Degeneration
   - Mouse Model
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 - id: doi:10.1172/JCI123980
   title: A nonhuman primate model of inherited retinal disease
   authors:
@@ -364,7 +364,7 @@
   - Ophthalmology
   - Genetic Disease
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 - id: doi:10.1089/hum.2018.078
   title: Gene Therapy Rescues Retinal Degeneration in Receptor Expression-Enhancing
     Protein 6 Mutant Mice
@@ -390,7 +390,7 @@
   - Retinal Degeneration
   - Retinitis Pigmentosa
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 - id: doi:10.1016/j.jtos.2020.12.004
   title: Single-cell transcriptomics identifies limbal stem cell population and cell
     types mapping its differentiation trajectory in limbal basal epithelium of human
@@ -421,7 +421,7 @@
   - Stem Cells
   - Epithelium
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1038/s41467-019-12917-9
   title: Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome
     profiling
@@ -453,7 +453,7 @@
   - snRNA-seq
   - Human Retina
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1016/j.xgen.2023.100298
   title: A multi-omics atlas of the human retina at single-cell resolution
   authors:
@@ -481,7 +481,7 @@
   - scRNA-seq
   - Human Retina
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1186/s13059-023-03111-8
   title: Single-cell multiomics of the human retina reveals hierarchical transcription
     factor collaboration in mediating cell type-specific effects of genetic variants
@@ -510,7 +510,7 @@
   - sc-ASE
   - Single cell multiomics
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1038/s41467-023-40674-3
   title: Spatial organization of the mouse retina at single cell resolution by MERFISH
   authors:
@@ -532,7 +532,7 @@
   - Mouse Retina
   - MERFISH
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 - id: doi:10.1038/s41467-024-50853-5
   title: Single cell dual-omic atlas of the human developing retina
   authors:
@@ -564,4 +564,4 @@
   - Human Retina
   - Single cell multiomics
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
