@@ -24,7 +24,7 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign topic1s = data | group_by_exp: "d", "d.topics" | sort: "date"  -%}
+{%- assign topic1s = data | group_by_exp: "d", "d.topics" | sort: "name"  -%}
 
 {%- for topic1 in topic1s -%}
 
@@ -32,7 +32,7 @@
 
 {%- if topic1s.size > 1 -%}
   <h3 id="{{ topic1.name }}">{{ topic1.name }}</h3>
-  {%- assign items = items | sort: "name" | reverse -%}
+  {%- assign items = items | sort: "date" | reverse -%}
 {%- endif -%}
 
 {%- for d in items -%}
