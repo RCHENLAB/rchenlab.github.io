@@ -10,7 +10,7 @@
   - Mendelian Disease
   - Gene Discovery
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 
 - id: doi:10.1038/s41436-020-01003-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
@@ -20,7 +20,7 @@
   - TLCD3B
   - Retinal Dystrophy
   topics:
-  - Human Genetics
+  - 2. Human Genetics
   
 - id: doi:10.1038/s41436-020-00948-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-00948-3/MediaObjects/41436_2020_948_Fig3_HTML.png?as=webp
@@ -34,7 +34,7 @@
   - Rare Variant
   - Mendelian Disease
   topics:
-  - Human Genetics
+  - 2. Human Genetics
   
 - id: doi:10.1016/j.ajhg.2017.02.008
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5384039/bin/gr2.jpg
@@ -44,7 +44,7 @@
   - CWC27
   - Retinal Degeneration
   topics:
-  - Human Genetics
+  - 2. Human Genetics
 
 - id: doi:10.1016/j.ajhg.2016.10.008
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5142109/bin/gr2.jpg
@@ -55,7 +55,7 @@
   - Retinitis Pigmentosa
   - Retinal Dystrophy
   topics:
-  - Human Genetics
+  - 2. Human Genetics
   
 - id: doi:10.1186/s13059-022-02679-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02679-x/MediaObjects/13059_2022_2679_Fig1_HTML.png?as=webp
@@ -72,7 +72,7 @@
   - Bi-CCA
   - Integration
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
    
 - id: doi:10.1073/pnas.1901572116
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6561190/bin/pnas.1901572116fig01.jpg
@@ -82,7 +82,7 @@
   - Cone and Rod Photoreceptor
   - Retinal Organoid
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1167/iovs.63.3.11
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8934561/bin/iovs-63-3-11-f001.jpg
@@ -93,7 +93,7 @@
   - Retinal Degeneration
   - Mouse Model
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 
 - id: doi:10.1172/JCI123980
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6355306/bin/jci-129-123980-g282.jpg
@@ -104,7 +104,7 @@
   - Ophthalmology
   - Genetic Disease
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 
 - id: doi:10.1089/hum.2018.078
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6437630/bin/fig-1.gif
@@ -114,7 +114,7 @@
   - Retinal Degeneration
   - Retinitis Pigmentosa
   topics:
-  - Therapeutics
+  - 3. Therapeutics
 
 - id: doi:10.1016/j.jtos.2020.12.004
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
@@ -125,7 +125,7 @@
   - Stem Cells
   - Epithelium
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1038/s41467-019-12917-9
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
@@ -138,7 +138,7 @@
   - snRNA-seq
   - Human Retina
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1016/j.xgen.2023.100298
   image: https://www.cell.com/cms/attachment/515d02fa-99ad-4048-bb86-e8cf7d257107/gr1.jpg
@@ -150,7 +150,7 @@
   - scRNA-seq
   - Human Retina
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1186/s13059-023-03111-8
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-023-03111-8/MediaObjects/13059_2023_3111_Fig1_HTML.png?as=webp
@@ -162,7 +162,7 @@
   - sc-ASE
   - Single cell multiomics
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1038/s41467-023-40674-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-40674-3/MediaObjects/41467_2023_40674_Fig1_HTML.png?as=webp
@@ -174,7 +174,7 @@
   - Mouse Retina
   - MERFISH
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
 
 - id: doi:10.1038/s41467-024-50853-5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-024-50853-5/MediaObjects/41467_2024_50853_Fig1_HTML.png?as=webp
@@ -186,4 +186,4 @@
   - Human Retina
   - Single cell multiomics
   topics:
-  - Single Cell Omics
+  - 1. Single Cell Omics
