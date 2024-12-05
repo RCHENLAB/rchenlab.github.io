@@ -86,6 +86,23 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 {% include section.html %}
 ### Ph.D. Students
+<small><b>Zhen Zuo, Ph.D. Student 2019-2024.</b> Current position: Institute Research Investigator at MD Anderson Cancer Center</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="zhenzuo2"
+%}
+{%
+  include link.html
+  type="google-scholar"
+  icon=""
+  text="Google Scholar"
+  tooltip=""
+  link="-rqTG20AAAAJ"
+%}<br>
 <small><b>Xinye Qian, Ph.D. Student 2018-2023.</b> Current position: Lifescience Consulting Associate at Charles River Associates</small>
 {%
   include link.html
