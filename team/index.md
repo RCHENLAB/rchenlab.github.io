@@ -250,6 +250,15 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="salmaferdous"
 %}<br>
+<small><b>Xianfeng (Jeff) Chen, Postdoc 2010-2011.</b> Current position: Bioinformatics Specialist at Mayo Foundation for Medical Education and Research, Center for Individualized Medicine at Mayo Clinic</small>
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  tooltip=""
+  link="chen.xianfeng@mayo.edu"
+%}<br>
 <small><b>Aiden Eblimit, Postdoc->Instructor 2003-2017.</b> Current position: Senior Scientist of ophthalmology at Arrowhead Pharmaceuticals</small>
 {%
   include link.html
