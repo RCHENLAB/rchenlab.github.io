@@ -132,8 +132,8 @@
   subtitle:
   group: human retina atlas
   image: images/HRA4.png
-  link: https://cellxgene.cziscience.com/collections/4832df54-d357-4d0f-b601-e924823b38b7
-  description: To provide a comprehensive view of the human fetal retina at the molecular level and investigate transcriptional regulatory mechanisms controlling the differentiation process, we profiled more than 300,000 single nuclei of the human fetal retina from 12 donors spanning post conception week 10 and 23 with Multiome RNA-seq and ATAC-seq. Please cite our [article](https://www.nature.com/articles/s41467-024-50853-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240809&utm_content=10.1038/s41467-024-50853-5#citeas).
+  link: https://cellxgene.cziscience.com/collections/5900dda8-2dc3-4770-b604-084eac1c2c82
+  description: To provide a comprehensive view of the human fetal retina at the molecular level and investigate transcriptional regulatory mechanisms controlling the differentiation process, we profiled more than 300,000 single nuclei of the human fetal retina from 12 donors spanning post conception week 10 and 23 with Multiome RNA-seq and ATAC-seq. To check ATAC-seq data, click [peak track Hub](https://genome.ucsc.edu/s/mspeir/hg38_hrca_developmental) and [processed union peak](https://ucirvine-my.sharepoint.com/:u:/g/personal/jinl14_ad_uci_edu/Ef627fPXVJROjScFDqp64CcBT-No6NI6uUR1FD2sA5EOcw?e=iS72d8). Please cite our [article](https://www.nature.com/articles/s41467-024-50853-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240809&utm_content=10.1038/s41467-024-50853-5#citeas).
   repo:
   tags:
     - Human Fetal Retina
