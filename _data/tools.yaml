@@ -28,7 +28,7 @@
   subtitle: 
   group: data portal
   image: images/macaque.jpg
-  link: https://ird.research.bcm.edu/macaque/
+  link: https://www.nature.com/articles/s41467-024-49922-6#Sec27
   description: The macaque Capture and Exome database (mCED) provides access to genotype data of rhesus macaques collected from eight non-primate research centers. 
   repo: 
   tags:
@@ -94,7 +94,7 @@
   subtitle: 
   group: mouse atlas
   image: images/MRA3.png
-  link: https://cellatlas.research.bcm.edu/
+  link: https://zenodo.org/records/8144355
   description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
   repo: 
   tags:
