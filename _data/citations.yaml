@@ -565,3 +565,140 @@
   - Single cell multiomics
   topics:
   - 1. Single Cell Omics
+- id: doi:10.1038/s41596-025-01220-1
+  title: 'scGPT: end-to-end protocol for fine-tuned retinal cell type annotation'
+  authors:
+  - Shanli Ding
+  - Jin Li
+  - Rui Luo
+  - Haotian Cui
+  - Bo Wang
+  - Rui Chen
+  publisher: Nature Protocols
+  date: '2025-07-15'
+  link: https://doi.org/hbkpk6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41596-025-01220-1/MediaObjects/41596_2025_1220_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: source
+    link: https://github.com/RCHENLAB/scGPT_fineTune_protocol
+    text: scGPT finetune protocol
+  tags:
+  - Foundation model finetuning
+  - Protocol
+  - Single cell multiomics
+  topics:
+  - 1. Single Cell Omics
+- id: doi:10.1101/gr.279167.124
+  title: Integrating short-read and long-read single-cell RNA sequencing for comprehensive
+    transcriptome profiling in mouse retina
+  authors:
+  - Meng Wang
+  - Yumei Li
+  - Jun Wang
+  - Soo Hwan Oh
+  - Yexuan Cao
+  - Rui Chen
+  publisher: Genome Research
+  date: '2025-03-06'
+  link: https://doi.org/hbcck4
+  image: https://genome.cshlp.org/content/35/4/740/F1.large.jpg
+  extra-links:
+  - link: https://genome.ucsc.edu/s/wmeng1018/Mouse_retina_transcript_isoform_by_LR
+    text: Data visualization
+  tags:
+  - Long-read sequencing
+  - Mouse Retina
+  - Single cell multiomics
+  - Transcription isoform
+  topics:
+  - 1. Single Cell Omics
+- id: doi:10.1038/s41597-025-04528-5
+  title: Divergence in cellular markers observed in single-cell transcriptomics datasets
+    between cultured primary trabecular meshwork cells and tissues
+  authors:
+  - Alice Tian
+  - Sangbae Kim
+  - Hasna Baidouri
+  - Jin Li
+  - Xuesen Cheng
+  - Janice Vranka
+  - Yumei Li
+  - Rui Chen
+  - VijayKrishna Raghunathan
+  publisher: Scientific Data
+  date: '2025-02-14'
+  link: https://doi.org/hbkpk7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-025-04528-5/MediaObjects/41597_2025_4528_Fig1_HTML.png?as=webp
+  extra-links: null
+  tags:
+  - Trabecular meshwork (TM)
+  - Glaucoma
+  - Single cell omics
+  topics:
+  - 1. Single Cell Omics
+- id: doi:10.1101/gr.278822.123
+  title: A deconvolution framework that uses single-cell sequencing plus a small benchmark
+    data set for accurate analysis of cell type ratios in complex tissue samples
+  authors:
+  - Shuai Guo
+  - Xiaoqian Liu
+  - Xuesen Cheng
+  - Yujie Jiang
+  - Shuangxi Ji
+  - Qingnan Liang
+  - Andrew Koval
+  - Yumei Li
+  - Leah A. Owen
+  - Ivana K. Kim
+  - Ana Aparicio
+  - Sanghoon Lee
+  - Anil K. Sood
+  - Scott Kopetz
+  - John Paul Shen
+  - John N. Weinstein
+  - Margaret M. DeAngelis
+  - Rui Chen
+  - Wenyi Wang
+  publisher: Genome Research
+  date: '2024-11-25'
+  link: https://doi.org/hbkpk8
+  image: https://genome.cshlp.org/content/35/1/147/F1.large.jpg
+  extra-links:
+  - type: source
+    link: https://github.com/wwylab/DeMixSC
+    text: DeMixSC source
+  tags:
+  - Cell-type deconvolution
+  - Single cell omics
+  topics:
+  - 1. Single Cell Omics
+- id: doi:10.1136/jmg-2025-110681
+  title: "Biallelic loss-of-function variants in\n                    <i>C19orf44</i>\n\
+    \                    lead to retinal degeneration"
+  authors:
+  - Hafiz Muhammad Jafar Hussain
+  - Wang Meng
+  - Yumei Li
+  - Sabika Firasat
+  - Mark E Pennesi
+  - Michael B Gorin
+  - Bin Guan
+  - Rebecca Lynn Clark
+  - Emma Fale-Olsen
+  - Ranya Al Rawi
+  - Aime Agather
+  - Laryssa A Huryn
+  - Paul Yang
+  - Anna Matynia
+  - Rui Chen
+  publisher: Journal of Medical Genetics
+  date: '2025-07-31'
+  link: https://doi.org/hbkpk9
+  image: https://jmg.bmj.com/content/jmedgenet/62/11/693/F1.large.jpg
+  extra-links: null
+  tags:
+  - Human Genetics
+  - Mendelian Disease
+  - Novel Gene Discovery
+  topics:
+  - 2. Human Genetics
