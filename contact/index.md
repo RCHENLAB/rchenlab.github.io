@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Ophthalmology, Center for Translational Vision Research](https://ctvr.uci.edu), at the school of [University of California Irvine](https://uci.edu).
-We are located on the 2nd floor of the Hewitt Hall.
+Our lab is part of the [Department of Ophthalmology, Robert M. Brunson Center for Translational Vision Research](https://ctvr.uci.edu), at the school of [University of California Irvine](https://uci.edu).
+We are located on the 6th floor of the Falling Leaves Foundation Research Building.
 
 {:.center}
 
@@ -18,11 +18,11 @@ We are located on the 2nd floor of the Hewitt Hall.
 {% capture col1 %}
 
 <br><br>
-##### Room 2501-12, Hewitt Hall
+##### Room 6256, Falling Leaves Foundation Research Building
 ##### Department of Ophthalmology
-##### Center for Translational Vision Research
+##### Robert M. Brunson Center for Translational Vision Research
 ##### University of California Irvine
-##### 843 Health Science Road, Irvine, CA 92617
+##### 847 Health Science Road, Irvine, CA 92617
 ##### United States 
 
 {%
