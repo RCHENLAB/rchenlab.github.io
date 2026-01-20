@@ -26,7 +26,7 @@ nav:
   icon=""
   text="More on PubMed"
   tooltip=""
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=rui+chen+and+Baylor&sort=date&size=100"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=((rui%20chen%5BAuthor%5D)%20AND%20((Baylor%5BAffiliation%5D)%20OR%20(University%20of%20California%20Irvine%5BAffiliation%5D)))&sort=date"
 %}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {%
@@ -35,6 +35,6 @@ nav:
   icon=""
   text="More on Google Scholar"
   tooltip=""
-  link="F_4HNPAAAAAJ"
+  link="uxBzGUEAAAAJ&hl=en"
 %}
 {:.center}
