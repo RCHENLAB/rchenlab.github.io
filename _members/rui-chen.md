@@ -11,7 +11,7 @@ links:
   home-page: https://www.researchgate.net/profile/Rui-Chen-43
   email: rui.chen@uci.edu
   linkedin: rui-chen-40661638
-  google-scholar: F_4HNPAAAAAJ
+  google-scholar: uxBzGUEAAAAJ&hl=en
 
 ---
 
