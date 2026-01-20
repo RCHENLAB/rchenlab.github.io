@@ -189,7 +189,7 @@
   - 1. Single Cell Omics
 
 - id: doi:10.1038/s41596-025-01220-1
-  image: https://www.nature.com/articles/s41596-025-01220-1/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41596-025-01220-1/MediaObjects/41596_2025_1220_Fig1_HTML.png?as=webp
   extra-links:
     - type: source
       link: https://github.com/RCHENLAB/scGPT_fineTune_protocol
@@ -215,7 +215,7 @@
   - 1. Single Cell Omics
 
 - id: doi:10.1038/s41597-025-04528-5
-  image: https://www.nature.com/articles/s41597-025-04528-5/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-025-04528-5/MediaObjects/41597_2025_4528_Fig1_HTML.png?as=webp
   extra-links:
   tags:
   - Trabecular meshwork (TM)
