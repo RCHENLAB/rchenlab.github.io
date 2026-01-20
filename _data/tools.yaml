@@ -58,6 +58,16 @@
   tags:
     - Single-cell Sequencing
     - SNV calling
+
+- title: Fine-tune Protocol for eye-scGPT
+  subtitle: Protocol for doing fine-tuning on any single-cell annotations with scGPT
+  group: software
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41596-025-01220-1/MediaObjects/41596_2025_1220_Fig1_HTML.png?as=webp
+  link: https://github.com/RCHENLAB/scGPT_fineTune_protocol
+  description: This protocol automates key steps, including data preprocessing, model fine-tuning and evaluation. This protocol enables researchers to efficiently deploy scGPT for their own datasets. The provided tools, including a command-line script and Jupyter Notebook, simplify the customization and exploration of the model, proposing an accessible workflow for users with minimal Python and Linux knowledge.
+  tags:
+    - Single-cell Sequencing
+    - SNV calling
     
 - title: GRIPT
   subtitle: A novel case-control analysis method for Mendelian disease gene discovery
