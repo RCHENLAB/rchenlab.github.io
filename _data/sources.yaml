@@ -187,3 +187,61 @@
   - Single cell multiomics
   topics:
   - 1. Single Cell Omics
+
+- id: doi:10.1038/s41596-025-01220-1
+  image: https://www.nature.com/articles/s41596-025-01220-1/figures/1
+  extra-links:
+    - type: source
+      link: https://github.com/RCHENLAB/scGPT_fineTune_protocol
+      text: scGPT finetune protocol
+  tags:
+  - Foundation model finetuning
+  - Protocol
+  - Single cell multiomics
+  topics:
+  - 1. Single Cell Omics
+
+- id: doi:10.1101/gr.279167.124
+  image: https://genome.cshlp.org/content/35/4/740/F1.large.jpg
+  extra-links:
+    - link: https://genome.ucsc.edu/s/wmeng1018/Mouse_retina_transcript_isoform_by_LR
+      text: Data visualization
+  tags:
+  - Long-read sequencing
+  - Mouse Retina
+  - Single cell multiomics
+  - Transcription isoform
+  topics:
+  - 1. Single Cell Omics
+
+- id: doi:10.1038/s41597-025-04528-5
+  image: https://www.nature.com/articles/s41597-025-04528-5/figures/1
+  extra-links:
+  tags:
+  - Trabecular meshwork (TM)
+  - Glaucoma
+  - Single cell multiomics
+  topics:
+  - 1. Single Cell Omics
+
+- id: doi:10.1101/gr.278822.123
+  image: https://genome.cshlp.org/content/35/1/147/F1.large.jpg
+  extra-links:
+    - type: source
+      link: https://github.com/wwylab/DeMixSC
+      text: DeMixSC source
+  tags:
+  - Cell-type deconvolution
+  - Single cell multiomics
+  topics:
+  - 1. Single Cell Omics
+
+- id: doi:10.1136/jmg-2025-110681
+  image: https://jmg.bmj.com/content/jmedgenet/62/11/693/F1.large.jpg
+  extra-links:
+  tags:
+  - Human Genetics
+  - Mendelian Disease
+  - Novel Gene Discovery
+  topics:
+  - 2. Human Genetics
