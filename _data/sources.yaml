@@ -245,3 +245,14 @@
   - Novel Gene Discovery
   topics:
   - 2. Human Genetics
+
+- id: doi:10.1038/s41588-025-02454-1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02454-1/MediaObjects/41588_2025_2454_Fig1_HTML.png?as=webp
+  extra-links:
+    - link: https://cellxgene.cziscience.com/collections/4c6eaf5c-6d57-4c76-b1e9-60df8c655f1e
+      text: Data visualization
+  tags:
+  - Human retina
+  - Single cell omics
+  topics:
+  - 1. Single Cell Omics
