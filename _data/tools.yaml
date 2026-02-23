@@ -118,7 +118,7 @@
   subtitle: 
   group: mouse atlas
   image: images/MRA3.png
-  link: https://zenodo.org/records/8144355
+  link: https://mmfatlas.eye.som.uci.edu/
   description: Spatial atlas of mouse retina in MERFISH experiment. The web service visualizes the spatial organization of mouse retina through cellxgene. Imputed data enable gene expression exploration of the whole transcriptome.
   repo: 
   tags:
