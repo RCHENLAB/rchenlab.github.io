@@ -27,7 +27,7 @@
 - title: Mouse Retina Single Cell Transcript Isoform Catalog
   subtitle:
   group: data portal
-  image: https://genome.cshlp.org/content/35/4/740/F2.large.jpg
+  image: https://genome.cshlp.org/content/35/4/740#GR279167WANF2
   link: https://genome.ucsc.edu/s/wmeng1018/Mouse_retina_transcript_isoform_by_LR
   description: By profiling the transcriptome of approximately 30,000 mouse retina cells with 1.54 billion Illumina short reads and 1.40 billion Oxford Nanopore Technologies long reads, we identify 44,325 transcript isoforms, with a notable 38% previously uncharacterized and 17% expressed exclusively in distinct cellular subclasses.
   repo:
